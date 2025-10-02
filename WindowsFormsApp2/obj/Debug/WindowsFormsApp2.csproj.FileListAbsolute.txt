@@ -1,0 +1,12 @@
+D:\Programacion\LUG\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Programacion\LUG\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Programacion\LUG\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmLogin.resources
+D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
