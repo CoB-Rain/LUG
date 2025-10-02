@@ -1,0 +1,17 @@
+D:\Programacion\LUG\MEMOTEST\bin\Debug\MEMOTEST.exe.config
+D:\Programacion\LUG\MEMOTEST\bin\Debug\MEMOTEST.exe
+D:\Programacion\LUG\MEMOTEST\bin\Debug\MEMOTEST.pdb
+D:\Programacion\LUG\MEMOTEST\obj\Debug\MEMOTEST.csproj.AssemblyReference.cache
+D:\Programacion\LUG\MEMOTEST\obj\Debug\MEMOTEST.Properties.Resources.resources
+D:\Programacion\LUG\MEMOTEST\obj\Debug\MEMOTEST.csproj.GenerateResource.cache
+D:\Programacion\LUG\MEMOTEST\obj\Debug\MEMOTEST.csproj.CoreCompileInputs.cache
+D:\Programacion\LUG\MEMOTEST\obj\Debug\MEMOTEST.exe
+D:\Programacion\LUG\MEMOTEST\obj\Debug\MEMOTEST.pdb
+D:\Programacion\LUG\MEMOTEST\bin\Debug\IMG\DIBU.jpg
+D:\Programacion\LUG\MEMOTEST\bin\Debug\IMG\DIMARIA.jpg
+D:\Programacion\LUG\MEMOTEST\bin\Debug\IMG\FONDO.jpg
+D:\Programacion\LUG\MEMOTEST\bin\Debug\IMG\MESSI.jpg
+D:\Programacion\LUG\MEMOTEST\bin\Debug\IMG\WANDA.jpg
+D:\Programacion\LUG\MEMOTEST\obj\Debug\MEMOTEST.exe.config
+D:\Programacion\LUG\MEMOTEST\obj\Debug\MEMOTEST.Form1.resources
+D:\Programacion\LUG\MEMOTEST\obj\Debug\MEMOTEST.UI_CASILLERO.resources

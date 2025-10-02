@@ -1,0 +1,12 @@
+D:\Programacion\LUG\ControlDeUsuario\bin\Debug\ControlDeUsuario.exe.config
+D:\Programacion\LUG\ControlDeUsuario\bin\Debug\ControlDeUsuario.exe
+D:\Programacion\LUG\ControlDeUsuario\bin\Debug\ControlDeUsuario.pdb
+D:\Programacion\LUG\ControlDeUsuario\obj\Debug\ControlDeUsuario.csproj.AssemblyReference.cache
+D:\Programacion\LUG\ControlDeUsuario\obj\Debug\ControlDeUsuario.MiControl.resources
+D:\Programacion\LUG\ControlDeUsuario\obj\Debug\ControlDeUsuario.Properties.Resources.resources
+D:\Programacion\LUG\ControlDeUsuario\obj\Debug\ControlDeUsuario.csproj.GenerateResource.cache
+D:\Programacion\LUG\ControlDeUsuario\obj\Debug\ControlDeUsuario.csproj.CoreCompileInputs.cache
+D:\Programacion\LUG\ControlDeUsuario\obj\Debug\ControlDeUsuario.exe
+D:\Programacion\LUG\ControlDeUsuario\obj\Debug\ControlDeUsuario.pdb
+D:\Programacion\LUG\ControlDeUsuario\obj\Debug\ControlDeUsuario.exe.config
+D:\Programacion\LUG\ControlDeUsuario\obj\Debug\ControlDeUsuario.Form1.resources
