@@ -21,6 +21,13 @@ namespace WindowsFormsApp2
             set { _ok = value; }
         }
 
+        private USUARIO _usuario;
+
+        public USUARIO Usuario
+        {
+            get { return _usuario; }
+        }
+
         public FrmLogin()
         {
             InitializeComponent();
@@ -34,14 +41,39 @@ namespace WindowsFormsApp2
         private void button1_Click(object sender, EventArgs e)
         {
             ACCESO acceso = new ACCESO();
-            string sql = $"SELECT * FROM USUARIO WHERE NOMBRE = '{textBox1.Text}' and CONTRASEÑA = '{textBox2.Text}'";
+            //string sql = $"SELECT * FROM USUARIO WHERE NOMBRE = '{textBox1.Text}' and CONTRASEÑA = '{textBox2.Text}'";
+            string sql = $"SELECT * FROM USUARIO WHERE NOMBRE = @nom and CONTRASEÑA = @pass";
+            List<SqlParameter> parameters = new List<SqlParameter>();
+            parameters.Add(acceso.CrearParametro("@nom", textBox1.Text));
+            parameters.Add(acceso.CrearParametro("@pass", textBox2.Text));
+
             acceso.Abrir();
-            SqlDataReader reader = acceso.Leer(sql);
+            SqlDataReader reader = acceso.Leer(sql, parameters);
             _ok = reader.HasRows;
+
+            if(_ok)
+            {
+                reader.Read();
+                _usuario = new USUARIO();
+                _usuario.ID = int.Parse(reader["ID"].ToString());
+                _usuario.Nombre = reader["NOMBRE"].ToString();
+                _usuario.Contraseña = reader["CONTRASEÑA"].ToString();
+                _usuario.Sexo = (from SEXO s in SEXO.Sexos
+                                 where s.ID == int.Parse(reader["ID_SEXO"].ToString())
+                                 select s).First();
+
+            }
+
             reader.Close();
 
             acceso.Cerrar();
             this.Close();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FrmRegistro frm = new FrmRegistro();
+            frm.ShowDialog();
         }
     }
 }

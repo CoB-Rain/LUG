@@ -10,3 +10,4 @@ D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompi
 D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
 D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config
+D:\Programacion\LUG\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmRegistro.resources

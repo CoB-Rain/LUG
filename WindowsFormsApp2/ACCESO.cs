@@ -28,18 +28,27 @@ namespace WindowsFormsApp2
         }
 
 
-        private SqlCommand CrearComando(string sql)
+        private SqlCommand CrearComando(string sql, List<SqlParameter> parametros = null)
         {
             SqlCommand cmd = new SqlCommand();
             cmd.CommandText = sql;
             cmd.CommandType = CommandType.Text;
             cmd.Connection = conexion;
+
+            if(parametros != null)
+            {
+                foreach(SqlParameter p in parametros)
+                {
+                    cmd.Parameters.Add(p);
+                }
+            }
+
             return cmd;
         }
 
-        public int Escribir(string sql)
+        public int Escribir(string sql, List<SqlParameter> parametros = null)
         {
-            SqlCommand cmd = CrearComando(sql);
+            SqlCommand cmd = CrearComando(sql, parametros);
             int filasAfectadas = 0;
             try
             {
@@ -54,11 +63,36 @@ namespace WindowsFormsApp2
             return filasAfectadas;
         }
 
-        public SqlDataReader Leer(string sql)
+        public SqlDataReader Leer(string sql, List<SqlParameter> parametros = null)
         {
-            SqlCommand cmd = CrearComando(sql);
+            SqlCommand cmd = CrearComando(sql, parametros);
             SqlDataReader reader = cmd.ExecuteReader();
             return reader;
+        }
+
+        public int LeerEscalar(string sql, List<SqlParameter> parametros = null)
+        {
+            SqlCommand cmd = CrearComando(sql, parametros);
+            int resultado = int.Parse(cmd.ExecuteScalar().ToString());
+            return resultado;
+        }
+
+        public SqlParameter CrearParametro(string nombre, string valor)
+        {
+            SqlParameter p = new SqlParameter();
+            p.ParameterName = nombre;
+            p.Value = valor;
+            p.DbType = DbType.String;
+            return p;
+        }
+
+        public SqlParameter CrearParametro(string nombre, int valor)
+        {
+            SqlParameter p = new SqlParameter();
+            p.ParameterName = nombre;
+            p.Value = valor;
+            p.DbType = DbType.Int32;
+            return p;
         }
     }
 }

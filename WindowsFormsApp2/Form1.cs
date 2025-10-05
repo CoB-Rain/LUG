@@ -12,8 +12,7 @@ namespace WindowsFormsApp2
 {
     public partial class Form1 : Form
     {
-
-
+        public USUARIO usuario;
 
         public Form1()
         {
@@ -22,11 +21,14 @@ namespace WindowsFormsApp2
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            SEXO.Listar();
             FrmLogin frm = new FrmLogin();
 
             while (!frm.OK)
             {
                 frm.ShowDialog();
+
+
             }
 
         }
