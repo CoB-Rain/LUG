@@ -1,0 +1,22 @@
+G:\BRIAN LUG\CAPAS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\BRIAN LUG\CAPAS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\BRIAN LUG\CAPAS\BLL\bin\Debug\BLL.dll
+G:\BRIAN LUG\CAPAS\BLL\bin\Debug\BLL.pdb
+G:\BRIAN LUG\CAPAS\BLL\bin\Debug\BE.dll
+G:\BRIAN LUG\CAPAS\BLL\bin\Debug\DAL.dll
+G:\BRIAN LUG\CAPAS\BLL\bin\Debug\BE.pdb
+G:\BRIAN LUG\CAPAS\BLL\bin\Debug\DAL.pdb
+G:\BRIAN LUG\CAPAS\BLL\obj\Debug\BLL.csproj.Up2Date
+G:\BRIAN LUG\CAPAS\BLL\obj\Debug\BLL.dll
+G:\BRIAN LUG\CAPAS\BLL\obj\Debug\BLL.pdb
+D:\Programacion\LUG\CAPAS\BLL\bin\Debug\BLL.dll
+D:\Programacion\LUG\CAPAS\BLL\bin\Debug\BLL.pdb
+D:\Programacion\LUG\CAPAS\BLL\bin\Debug\BE.dll
+D:\Programacion\LUG\CAPAS\BLL\bin\Debug\DAL.dll
+D:\Programacion\LUG\CAPAS\BLL\bin\Debug\BE.pdb
+D:\Programacion\LUG\CAPAS\BLL\bin\Debug\DAL.pdb
+D:\Programacion\LUG\CAPAS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Programacion\LUG\CAPAS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Programacion\LUG\CAPAS\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Programacion\LUG\CAPAS\BLL\obj\Debug\BLL.dll
+D:\Programacion\LUG\CAPAS\BLL\obj\Debug\BLL.pdb

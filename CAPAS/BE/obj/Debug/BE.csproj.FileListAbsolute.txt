@@ -1,0 +1,12 @@
+G:\BRIAN LUG\CAPAS\BE\bin\Debug\BE.dll
+G:\BRIAN LUG\CAPAS\BE\bin\Debug\BE.pdb
+G:\BRIAN LUG\CAPAS\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+G:\BRIAN LUG\CAPAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+G:\BRIAN LUG\CAPAS\BE\obj\Debug\BE.dll
+G:\BRIAN LUG\CAPAS\BE\obj\Debug\BE.pdb
+D:\Programacion\LUG\CAPAS\BE\bin\Debug\BE.dll
+D:\Programacion\LUG\CAPAS\BE\bin\Debug\BE.pdb
+D:\Programacion\LUG\CAPAS\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\Programacion\LUG\CAPAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Programacion\LUG\CAPAS\BE\obj\Debug\BE.dll
+D:\Programacion\LUG\CAPAS\BE\obj\Debug\BE.pdb

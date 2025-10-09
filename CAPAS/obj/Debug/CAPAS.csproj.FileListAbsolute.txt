@@ -1,0 +1,36 @@
+G:\BRIAN LUG\CAPAS\obj\Debug\CAPAS.csproj.AssemblyReference.cache
+G:\BRIAN LUG\CAPAS\obj\Debug\CAPAS.Form1.resources
+G:\BRIAN LUG\CAPAS\obj\Debug\CAPAS.Properties.Resources.resources
+G:\BRIAN LUG\CAPAS\obj\Debug\CAPAS.csproj.GenerateResource.cache
+G:\BRIAN LUG\CAPAS\obj\Debug\CAPAS.csproj.CoreCompileInputs.cache
+G:\BRIAN LUG\CAPAS\bin\Debug\CAPAS.exe.config
+G:\BRIAN LUG\CAPAS\bin\Debug\CAPAS.exe
+G:\BRIAN LUG\CAPAS\bin\Debug\CAPAS.pdb
+G:\BRIAN LUG\CAPAS\bin\Debug\BE.dll
+G:\BRIAN LUG\CAPAS\bin\Debug\BLL.dll
+G:\BRIAN LUG\CAPAS\bin\Debug\DAL.dll
+G:\BRIAN LUG\CAPAS\bin\Debug\BE.pdb
+G:\BRIAN LUG\CAPAS\bin\Debug\BLL.pdb
+G:\BRIAN LUG\CAPAS\bin\Debug\DAL.pdb
+G:\BRIAN LUG\CAPAS\obj\Debug\CAPAS.csproj.Up2Date
+G:\BRIAN LUG\CAPAS\obj\Debug\CAPAS.exe
+G:\BRIAN LUG\CAPAS\obj\Debug\CAPAS.pdb
+G:\BRIAN LUG\CAPAS\obj\Debug\CAPAS.exe.config
+D:\Programacion\LUG\CAPAS\bin\Debug\CAPAS.exe.config
+D:\Programacion\LUG\CAPAS\bin\Debug\CAPAS.exe
+D:\Programacion\LUG\CAPAS\bin\Debug\CAPAS.pdb
+D:\Programacion\LUG\CAPAS\bin\Debug\BE.dll
+D:\Programacion\LUG\CAPAS\bin\Debug\BLL.dll
+D:\Programacion\LUG\CAPAS\bin\Debug\DAL.dll
+D:\Programacion\LUG\CAPAS\bin\Debug\BE.pdb
+D:\Programacion\LUG\CAPAS\bin\Debug\BLL.pdb
+D:\Programacion\LUG\CAPAS\bin\Debug\DAL.pdb
+D:\Programacion\LUG\CAPAS\obj\Debug\CAPAS.csproj.AssemblyReference.cache
+D:\Programacion\LUG\CAPAS\obj\Debug\CAPAS.exe.config
+D:\Programacion\LUG\CAPAS\obj\Debug\CAPAS.Form1.resources
+D:\Programacion\LUG\CAPAS\obj\Debug\CAPAS.Properties.Resources.resources
+D:\Programacion\LUG\CAPAS\obj\Debug\CAPAS.csproj.GenerateResource.cache
+D:\Programacion\LUG\CAPAS\obj\Debug\CAPAS.csproj.CoreCompileInputs.cache
+D:\Programacion\LUG\CAPAS\obj\Debug\CAPAS.csproj.Up2Date
+D:\Programacion\LUG\CAPAS\obj\Debug\CAPAS.exe
+D:\Programacion\LUG\CAPAS\obj\Debug\CAPAS.pdb

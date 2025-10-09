@@ -1,0 +1,18 @@
+G:\BRIAN LUG\CAPAS\DAL\bin\Debug\DAL.dll
+G:\BRIAN LUG\CAPAS\DAL\bin\Debug\DAL.pdb
+G:\BRIAN LUG\CAPAS\DAL\bin\Debug\BE.dll
+G:\BRIAN LUG\CAPAS\DAL\bin\Debug\BE.pdb
+G:\BRIAN LUG\CAPAS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\BRIAN LUG\CAPAS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\BRIAN LUG\CAPAS\DAL\obj\Debug\DAL.csproj.Up2Date
+G:\BRIAN LUG\CAPAS\DAL\obj\Debug\DAL.dll
+G:\BRIAN LUG\CAPAS\DAL\obj\Debug\DAL.pdb
+D:\Programacion\LUG\CAPAS\DAL\bin\Debug\DAL.dll
+D:\Programacion\LUG\CAPAS\DAL\bin\Debug\DAL.pdb
+D:\Programacion\LUG\CAPAS\DAL\bin\Debug\BE.dll
+D:\Programacion\LUG\CAPAS\DAL\bin\Debug\BE.pdb
+D:\Programacion\LUG\CAPAS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Programacion\LUG\CAPAS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Programacion\LUG\CAPAS\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Programacion\LUG\CAPAS\DAL\obj\Debug\DAL.dll
+D:\Programacion\LUG\CAPAS\DAL\obj\Debug\DAL.pdb
