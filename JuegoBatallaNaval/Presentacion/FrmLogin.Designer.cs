@@ -43,8 +43,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Courier New", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(752, 123);
-            this.label1.Margin = new System.Windows.Forms.Padding(10, 0, 10, 0);
+            this.label1.Location = new System.Drawing.Point(21, 34);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(623, 36);
             this.label1.TabIndex = 0;
@@ -52,47 +51,42 @@
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(605, 268);
-            this.txtNombre.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.txtNombre.Location = new System.Drawing.Point(191, 94);
             this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(900, 44);
+            this.txtNombre.Size = new System.Drawing.Size(287, 20);
             this.txtNombre.TabIndex = 1;
             // 
             // txtContraseña
             // 
-            this.txtContraseña.Location = new System.Drawing.Point(605, 342);
-            this.txtContraseña.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.txtContraseña.Location = new System.Drawing.Point(191, 120);
             this.txtContraseña.Name = "txtContraseña";
             this.txtContraseña.PasswordChar = '*';
-            this.txtContraseña.Size = new System.Drawing.Size(900, 44);
+            this.txtContraseña.Size = new System.Drawing.Size(287, 20);
             this.txtContraseña.TabIndex = 2;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(272, 276);
-            this.label2.Margin = new System.Windows.Forms.Padding(10, 0, 10, 0);
+            this.label2.Location = new System.Drawing.Point(86, 97);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(300, 37);
+            this.label2.Size = new System.Drawing.Size(99, 13);
             this.label2.TabIndex = 3;
             this.label2.Text = "Nombre de usuario:";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(272, 350);
-            this.label3.Margin = new System.Windows.Forms.Padding(10, 0, 10, 0);
+            this.label3.Location = new System.Drawing.Point(86, 123);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(192, 37);
+            this.label3.Size = new System.Drawing.Size(64, 13);
             this.label3.TabIndex = 4;
             this.label3.Text = "Contraseña:";
             // 
             // btnIniciarSesion
             // 
-            this.btnIniciarSesion.Location = new System.Drawing.Point(890, 416);
-            this.btnIniciarSesion.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.btnIniciarSesion.Location = new System.Drawing.Point(281, 146);
             this.btnIniciarSesion.Name = "btnIniciarSesion";
-            this.btnIniciarSesion.Size = new System.Drawing.Size(370, 117);
+            this.btnIniciarSesion.Size = new System.Drawing.Size(117, 41);
             this.btnIniciarSesion.TabIndex = 5;
             this.btnIniciarSesion.Text = "Iniciar Sesion";
             this.btnIniciarSesion.UseVisualStyleBackColor = true;
@@ -101,10 +95,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Presentacion.Properties.Resources.OJO_CERRADO;
-            this.pictureBox1.Location = new System.Drawing.Point(1533, 342);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.pictureBox1.Location = new System.Drawing.Point(484, 120);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(66, 57);
+            this.pictureBox1.Size = new System.Drawing.Size(21, 20);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;
@@ -113,10 +106,9 @@
             // lnkCrearUsuario
             // 
             this.lnkCrearUsuario.AutoSize = true;
-            this.lnkCrearUsuario.Location = new System.Drawing.Point(817, 541);
-            this.lnkCrearUsuario.Margin = new System.Windows.Forms.Padding(10, 0, 10, 0);
+            this.lnkCrearUsuario.Location = new System.Drawing.Point(258, 190);
             this.lnkCrearUsuario.Name = "lnkCrearUsuario";
-            this.lnkCrearUsuario.Size = new System.Drawing.Size(455, 37);
+            this.lnkCrearUsuario.Size = new System.Drawing.Size(155, 13);
             this.lnkCrearUsuario.TabIndex = 7;
             this.lnkCrearUsuario.TabStop = true;
             this.lnkCrearUsuario.Text = "¿no tienes una cuenta creada?";
@@ -124,9 +116,9 @@
             // 
             // FrmLogin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 37F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(2106, 734);
+            this.ClientSize = new System.Drawing.Size(665, 258);
             this.Controls.Add(this.lnkCrearUsuario);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnIniciarSesion);
@@ -135,8 +127,7 @@
             this.Controls.Add(this.txtContraseña);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.label1);
-            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Name = "FrmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmLogin";
