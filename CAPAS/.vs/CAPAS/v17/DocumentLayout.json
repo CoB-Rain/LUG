@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "D:\\Programacion\\LUG\\CAPAS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99CE70E1-B629-4A00-B020-FF9FCB316D0B}|CAPAS.csproj|D:\\Programacion\\LUG\\CAPAS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99CE70E1-B629-4A00-B020-FF9FCB316D0B}|CAPAS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|D:\\Programacion\\LUG\\CAPAS\\dal\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|solutionrelative:dal\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|d:\\programacion\\lug\\capas\\dal\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|solutionrelative:dal\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E7498F4-A7DF-4D8F-9A08-EE65220B031E}|BE\\BE.csproj|D:\\Programacion\\LUG\\CAPAS\\be\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E7498F4-A7DF-4D8F-9A08-EE65220B031E}|BE\\BE.csproj|solutionrelative:be\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE70E1-B629-4A00-B020-FF9FCB316D0B}|CAPAS.csproj|d:\\programacion\\lug\\capas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CE70E1-B629-4A00-B020-FF9FCB316D0B}|CAPAS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CE70E1-B629-4A00-B020-FF9FCB316D0B}|CAPAS.csproj|D:\\Programacion\\LUG\\CAPAS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99CE70E1-B629-4A00-B020-FF9FCB316D0B}|CAPAS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79F8BBA3-4D72-4472-A753-20EE61E5D971}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\CAPAS\\bll\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79F8BBA3-4D72-4472-A753-20EE61E5D971}|BLL\\BLL.csproj|solutionrelative:bll\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|D:\\Programacion\\LUG\\CAPAS\\dal\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|solutionrelative:dal\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|D:\\Programacion\\LUG\\CAPAS\\dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|solutionrelative:dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|d:\\programacion\\lug\\capas\\dal\\mp_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|D:\\Programacion\\LUG\\CAPAS\\dal\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|solutionrelative:dal\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|D:\\Programacion\\LUG\\CAPAS\\dal\\mp_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EB9310D-CFCC-4026-8AA0-D75582F1FD0A}|DAL\\DAL.csproj|solutionrelative:dal\\mp_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99CE70E1-B629-4A00-B020-FF9FCB316D0B}|CAPAS.csproj|D:\\Programacion\\LUG\\CAPAS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99CE70E1-B629-4A00-B020-FF9FCB316D0B}|CAPAS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79F8BBA3-4D72-4472-A753-20EE61E5D971}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\CAPAS\\bll\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{79F8BBA3-4D72-4472-A753-20EE61E5D971}|BLL\\BLL.csproj|solutionrelative:bll\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,32 +46,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\CAPAS\\BLL\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "BLL\\ClassDiagram1.cd",
+              "ToolTip": "D:\\Programacion\\LUG\\CAPAS\\BLL\\ClassDiagram1.cd",
+              "RelativeToolTip": "BLL\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-10-21T14:46:08.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "D:\\Programacion\\LUG\\CAPAS\\DAL\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "DAL\\ClassDiagram1.cd",
               "ToolTip": "D:\\Programacion\\LUG\\CAPAS\\DAL\\ClassDiagram1.cd",
               "RelativeToolTip": "DAL\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-10-09T13:03:03.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T02:24:13.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MP_PRODUCTO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\CAPAS\\DAL\\MP_PRODUCTO.cs",
               "RelativeDocumentMoniker": "DAL\\MP_PRODUCTO.cs",
               "ToolTip": "D:\\Programacion\\LUG\\CAPAS\\DAL\\MP_PRODUCTO.cs",
               "RelativeToolTip": "DAL\\MP_PRODUCTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T23:24:36.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T23:24:36.71Z"
             },
             {
               "$type": "Document",
@@ -77,14 +90,13 @@
               "RelativeDocumentMoniker": "DAL\\ACCESO.cs",
               "ToolTip": "D:\\Programacion\\LUG\\CAPAS\\DAL\\ACCESO.cs",
               "RelativeToolTip": "DAL\\ACCESO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T23:04:14.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T23:04:14.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Programacion\\LUG\\CAPAS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -96,33 +108,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\CAPAS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Programacion\\LUG\\CAPAS\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAADwvy4AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwDUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T22:40:59.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PRODUCTO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\CAPAS\\BLL\\PRODUCTO.cs",
               "RelativeDocumentMoniker": "BLL\\PRODUCTO.cs",
               "ToolTip": "D:\\Programacion\\LUG\\CAPAS\\BLL\\PRODUCTO.cs",
               "RelativeToolTip": "BLL\\PRODUCTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T23:42:36.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PRODUCTO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\CAPAS\\BE\\PRODUCTO.cs",
               "RelativeDocumentMoniker": "BE\\PRODUCTO.cs",
@@ -135,16 +147,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MAPPER.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\CAPAS\\DAL\\MAPPER.cs",
               "RelativeDocumentMoniker": "DAL\\MAPPER.cs",
               "ToolTip": "D:\\Programacion\\LUG\\CAPAS\\DAL\\MAPPER.cs",
               "RelativeToolTip": "DAL\\MAPPER.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T23:22:17.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T23:22:17.782Z"
             }
           ]
         }

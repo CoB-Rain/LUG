@@ -1,0 +1,9 @@
+D:\Programacion\LUG\JuegoBatallaNaval\DAL\bin\Debug\DAL.dll
+D:\Programacion\LUG\JuegoBatallaNaval\DAL\bin\Debug\DAL.pdb
+D:\Programacion\LUG\JuegoBatallaNaval\DAL\bin\Debug\BE.dll
+D:\Programacion\LUG\JuegoBatallaNaval\DAL\bin\Debug\BE.pdb
+D:\Programacion\LUG\JuegoBatallaNaval\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Programacion\LUG\JuegoBatallaNaval\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Programacion\LUG\JuegoBatallaNaval\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Programacion\LUG\JuegoBatallaNaval\DAL\obj\Debug\DAL.dll
+D:\Programacion\LUG\JuegoBatallaNaval\DAL\obj\Debug\DAL.pdb

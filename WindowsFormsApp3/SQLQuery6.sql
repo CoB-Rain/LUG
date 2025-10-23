@@ -1,0 +1,5 @@
+CREATE PROC PERSONA_OBTENERMAXID
+as
+BEGIN
+	select isnull(max(id), 0) from PERSONA
+END

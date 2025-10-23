@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Composite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\gestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\gestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\frmconsultaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\frmconsultaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\frmbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\frmbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\frmbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\frmbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\frmabmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\frmabmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\frmabmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\frmabmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\frmabmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\frmabmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\frmconsultacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\frmconsultacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|d:\\composite\\composite\\frmconsultaperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAD3DFB5-6E6A-45F9-ABB4-7FBBC6C2DC20}|Composite\\Composite.csproj|solutionrelative:composite\\frmconsultaperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GESTOR.cs",
+              "DocumentMoniker": "D:\\Composite\\Composite\\GESTOR.cs",
+              "RelativeDocumentMoniker": "Composite\\GESTOR.cs",
+              "ToolTip": "D:\\Composite\\Composite\\GESTOR.cs",
+              "RelativeToolTip": "Composite\\GESTOR.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:37:07.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Composite\\Composite\\Form1.cs",
+              "RelativeDocumentMoniker": "Composite\\Form1.cs",
+              "ToolTip": "D:\\Composite\\Composite\\Form1.cs",
+              "RelativeToolTip": "Composite\\Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAewEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:00:02.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PERMISO.cs",
+              "DocumentMoniker": "D:\\Composite\\Composite\\PERMISO.cs",
+              "RelativeDocumentMoniker": "Composite\\PERMISO.cs",
+              "ToolTip": "D:\\Composite\\Composite\\PERMISO.cs",
+              "RelativeToolTip": "Composite\\PERMISO.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswCgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:52:25.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\Composite\\Composite\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Composite\\ClassDiagram1.cd",
+              "ToolTip": "D:\\Composite\\Composite\\ClassDiagram1.cd",
+              "RelativeToolTip": "Composite\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-10-09T22:52:01.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Composite\\Composite\\Form1.cs",
+              "RelativeDocumentMoniker": "Composite\\Form1.cs",
+              "ToolTip": "D:\\Composite\\Composite\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Composite\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:51:25.396Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "USUARIO.cs",
+              "DocumentMoniker": "D:\\Composite\\Composite\\USUARIO.cs",
+              "RelativeDocumentMoniker": "Composite\\USUARIO.cs",
+              "ToolTip": "D:\\Composite\\Composite\\USUARIO.cs",
+              "RelativeToolTip": "Composite\\USUARIO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:51:39.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ACCESO.cs",
+              "DocumentMoniker": "D:\\Composite\\Composite\\ACCESO.cs",
+              "RelativeDocumentMoniker": "Composite\\ACCESO.cs",
+              "ToolTip": "D:\\Composite\\Composite\\ACCESO.cs",
+              "RelativeToolTip": "Composite\\ACCESO.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAArwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:29:05.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GRUPO.cs",
+              "DocumentMoniker": "D:\\Composite\\Composite\\GRUPO.cs",
+              "RelativeDocumentMoniker": "Composite\\GRUPO.cs",
+              "ToolTip": "D:\\Composite\\Composite\\GRUPO.cs",
+              "RelativeToolTip": "Composite\\GRUPO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:12:59.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmConsultaProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Composite\\Composite\\frmConsultaProducto.cs",
+              "RelativeDocumentMoniker": "Composite\\frmConsultaProducto.cs",
+              "ToolTip": "D:\\Composite\\Composite\\frmConsultaProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Composite\\frmConsultaProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:01:42.269Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmBackup.cs",
+              "DocumentMoniker": "D:\\Composite\\Composite\\frmBackup.cs",
+              "RelativeDocumentMoniker": "Composite\\frmBackup.cs",
+              "ToolTip": "D:\\Composite\\Composite\\frmBackup.cs",
+              "RelativeToolTip": "Composite\\frmBackup.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:02:53.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmBackup.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Composite\\Composite\\frmBackup.cs",
+              "RelativeDocumentMoniker": "Composite\\frmBackup.cs",
+              "ToolTip": "D:\\Composite\\Composite\\frmBackup.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Composite\\frmBackup.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:02:48.365Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmABMUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Composite\\Composite\\frmABMUsuario.cs",
+              "RelativeDocumentMoniker": "Composite\\frmABMUsuario.cs",
+              "ToolTip": "D:\\Composite\\Composite\\frmABMUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Composite\\frmABMUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:02:33.787Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmABMProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Composite\\Composite\\frmABMProducto.cs",
+              "RelativeDocumentMoniker": "Composite\\frmABMProducto.cs",
+              "ToolTip": "D:\\Composite\\Composite\\frmABMProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Composite\\frmABMProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:02:06.475Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmABMCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Composite\\Composite\\frmABMCliente.cs",
+              "RelativeDocumentMoniker": "Composite\\frmABMCliente.cs",
+              "ToolTip": "D:\\Composite\\Composite\\frmABMCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Composite\\frmABMCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:01:54.44Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmConsultaCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Composite\\Composite\\frmConsultaCliente.cs",
+              "RelativeDocumentMoniker": "Composite\\frmConsultaCliente.cs",
+              "ToolTip": "D:\\Composite\\Composite\\frmConsultaCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Composite\\frmConsultaCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:01:33.263Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmConsultaPErfil.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Composite\\Composite\\frmConsultaPErfil.cs",
+              "RelativeDocumentMoniker": "Composite\\frmConsultaPErfil.cs",
+              "ToolTip": "D:\\Composite\\Composite\\frmConsultaPErfil.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Composite\\frmConsultaPErfil.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:01:06.74Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

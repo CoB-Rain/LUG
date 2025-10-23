@@ -1,0 +1,6 @@
+CREATE PROC USUARIO_BORRAR
+@id int
+as
+BEGIN
+	delete from USUARIO where ID_USUARIO = @id
+END

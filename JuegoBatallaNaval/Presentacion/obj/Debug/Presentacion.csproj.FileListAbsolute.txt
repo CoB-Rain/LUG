@@ -1,0 +1,27 @@
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\ACORAZADO.jpg
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\BATALLA NAVAL.jpg
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\BUQUE.jpg
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\FRAGATA.jpg
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\PORTA AVIONES.jpg
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\Presentacion.exe
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\Presentacion.pdb
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.exe
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.pdb
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\BE.dll
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\BLL.dll
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\DAL.dll
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\BE.pdb
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\BLL.pdb
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\DAL.pdb
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.exe.config
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\OJO_ABIERTO.jpg
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\OJO_CERRADO.jpg
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.FrmAltaUsuario.resources
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.Form1.resources

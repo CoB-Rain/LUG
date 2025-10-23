@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BE.FICHA">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAACIAAAAAAAAAAAAAAAAAAEAAAABAAAAQAAAAEAAg=</HashCode>
+      <FileName>FICHA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.TABLERO">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>TABLERO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.COORDENADA">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>COORDENADA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BE.Estado">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Estado.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

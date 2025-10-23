@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAS CLASE 2\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\das clase 2\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\das clase 2\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\das clase 2\\windowsformsapp1\\windowsformsapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\das clase 2\\windowsformsapp1\\windowsformsapp1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\das clase 2\\windowsformsapp1\\windowsformsapp1\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\das clase 2\\windowsformsapp1\\windowsformsapp1\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\das clase 2\\windowsformsapp1\\windowsformsapp1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF327243-8103-4EB5-B726-4D20829B21CC}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FRMLOGIN.cs",
+              "DocumentMoniker": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\FRMLOGIN.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FRMLOGIN.cs",
+              "ToolTip": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\FRMLOGIN.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FRMLOGIN.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvyMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:27:03.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FRMLOGIN.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\FRMLOGIN.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FRMLOGIN.cs",
+              "ToolTip": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\FRMLOGIN.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\FRMLOGIN.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:25:16.74Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADgv0QAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:23:12.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PRODUCTO.cs",
+              "DocumentMoniker": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\PRODUCTO.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PRODUCTO.cs",
+              "ToolTip": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\PRODUCTO.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\PRODUCTO.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwv1cAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:16:57.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ACCESO.cs",
+              "DocumentMoniker": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\ACCESO.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ACCESO.cs",
+              "ToolTip": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\ACCESO.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ACCESO.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADgvzEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:06:48.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ClassDiagram1.cd",
+              "ToolTip": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\ClassDiagram1.cd",
+              "RelativeToolTip": "WindowsFormsApp1\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-08-20T23:06:10.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\DAS CLASE 2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:06:03.699Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

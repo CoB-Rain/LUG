@@ -1,0 +1,10 @@
+D:\DAS\Clase 1\Clase 1\bin\Debug\Clase 1.exe.config
+D:\DAS\Clase 1\Clase 1\bin\Debug\Clase 1.exe
+D:\DAS\Clase 1\Clase 1\bin\Debug\Clase 1.pdb
+D:\DAS\Clase 1\Clase 1\obj\Debug\Clase 1.csproj.AssemblyReference.cache
+D:\DAS\Clase 1\Clase 1\obj\Debug\Clase_1.Form1.resources
+D:\DAS\Clase 1\Clase 1\obj\Debug\Clase_1.Properties.Resources.resources
+D:\DAS\Clase 1\Clase 1\obj\Debug\Clase 1.csproj.GenerateResource.cache
+D:\DAS\Clase 1\Clase 1\obj\Debug\Clase 1.csproj.CoreCompileInputs.cache
+D:\DAS\Clase 1\Clase 1\obj\Debug\Clase 1.exe
+D:\DAS\Clase 1\Clase 1\obj\Debug\Clase 1.pdb

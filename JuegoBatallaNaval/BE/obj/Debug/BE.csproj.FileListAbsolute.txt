@@ -1,0 +1,6 @@
+D:\Programacion\LUG\JuegoBatallaNaval\BE\bin\Debug\BE.dll
+D:\Programacion\LUG\JuegoBatallaNaval\BE\bin\Debug\BE.pdb
+D:\Programacion\LUG\JuegoBatallaNaval\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\Programacion\LUG\JuegoBatallaNaval\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Programacion\LUG\JuegoBatallaNaval\BE\obj\Debug\BE.dll
+D:\Programacion\LUG\JuegoBatallaNaval\BE\obj\Debug\BE.pdb

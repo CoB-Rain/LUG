@@ -1,0 +1,9 @@
+D:\CuatroCapas\DAL\bin\Debug\DAL.dll
+D:\CuatroCapas\DAL\bin\Debug\DAL.pdb
+D:\CuatroCapas\DAL\bin\Debug\BE.dll
+D:\CuatroCapas\DAL\bin\Debug\BE.pdb
+D:\CuatroCapas\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CuatroCapas\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CuatroCapas\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\CuatroCapas\DAL\obj\Debug\DAL.dll
+D:\CuatroCapas\DAL\obj\Debug\DAL.pdb

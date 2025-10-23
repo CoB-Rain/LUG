@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacion\\LUG\\Juego\\Juego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\be\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|solutionrelative:be\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|d:\\programacion\\lug\\juego\\juego\\be\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|solutionrelative:be\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\bll\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|solutionrelative:bll\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\bll\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|solutionrelative:bll\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\bll\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|solutionrelative:bll\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\bll\\delinformar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|solutionrelative:bll\\delinformar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\bll\\delenviarficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|solutionrelative:bll\\delenviarficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\bll\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|solutionrelative:bll\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|solutionrelative:juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|solutionrelative:juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\be\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|solutionrelative:be\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\be\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|solutionrelative:be\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\be\\coordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|solutionrelative:be\\coordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\juego\\mipicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|solutionrelative:juego\\mipicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TABLERO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\TABLERO.cs",
+              "RelativeDocumentMoniker": "BLL\\TABLERO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\TABLERO.cs",
+              "RelativeToolTip": "BLL\\TABLERO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:26:09.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\Helper.cs",
+              "RelativeDocumentMoniker": "BLL\\Helper.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\Helper.cs",
+              "RelativeToolTip": "BLL\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:10:42.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "delInformar.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\delInformar.cs",
+              "RelativeDocumentMoniker": "BLL\\delInformar.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\delInformar.cs",
+              "RelativeToolTip": "BLL\\delInformar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:47:50.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "delEnviarFicha.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\delEnviarFicha.cs",
+              "RelativeDocumentMoniker": "BLL\\delEnviarFicha.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\delEnviarFicha.cs",
+              "RelativeToolTip": "BLL\\delEnviarFicha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:23:26.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "BLL\\ClassDiagram1.cd",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\ClassDiagram1.cd",
+              "RelativeToolTip": "BLL\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-18T23:23:04.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\Form1.cs",
+              "RelativeDocumentMoniker": "Juego\\Form1.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\Form1.cs",
+              "RelativeToolTip": "Juego\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:30:09.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\Juego.cs",
+              "RelativeDocumentMoniker": "BLL\\Juego.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\Juego.cs",
+              "RelativeToolTip": "BLL\\Juego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:19:18.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "BE\\ClassDiagram1.cd",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\ClassDiagram1.cd",
+              "RelativeToolTip": "BE\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-18T22:26:51.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FICHA.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\FICHA.cs",
+              "RelativeDocumentMoniker": "BE\\FICHA.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\FICHA.cs",
+              "RelativeToolTip": "BE\\FICHA.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:28:09.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\Form1.cs",
+              "RelativeDocumentMoniker": "Juego\\Form1.cs",
+              "ToolTip": "D:\\universidad\\LUG\\Juego\\Juego\\Juego\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\universidad\\LUG\\Juego\\Juego\\Juego\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:23:40.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\Estado.cs",
+              "RelativeDocumentMoniker": "BE\\Estado.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\Estado.cs",
+              "RelativeToolTip": "BE\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:29:45.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TABLERO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\TABLERO.cs",
+              "RelativeDocumentMoniker": "BE\\TABLERO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\TABLERO.cs",
+              "RelativeToolTip": "BE\\TABLERO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:31:43.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "COORDENADA.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\COORDENADA.cs",
+              "RelativeDocumentMoniker": "BE\\COORDENADA.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\COORDENADA.cs",
+              "RelativeToolTip": "BE\\COORDENADA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:34:40.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MiPictureBox.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\MiPictureBox.cs",
+              "RelativeDocumentMoniker": "Juego\\MiPictureBox.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\MiPictureBox.cs",
+              "RelativeToolTip": "Juego\\MiPictureBox.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:27:09.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

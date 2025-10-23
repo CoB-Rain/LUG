@@ -1,0 +1,6 @@
+D:\CuatroCapas\BE\bin\Debug\BE.dll
+D:\CuatroCapas\BE\bin\Debug\BE.pdb
+D:\CuatroCapas\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\CuatroCapas\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\CuatroCapas\BE\obj\Debug\BE.dll
+D:\CuatroCapas\BE\obj\Debug\BE.pdb

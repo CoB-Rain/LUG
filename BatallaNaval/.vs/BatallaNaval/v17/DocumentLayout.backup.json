@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacion\\LUG\\BatallaNaval\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{740E0D6A-53E5-4027-956B-A7AD34226760}|DAL\\DAL.csproj|D:\\Programacion\\LUG\\BatallaNaval\\dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740E0D6A-53E5-4027-956B-A7AD34226760}|DAL\\DAL.csproj|solutionrelative:dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E149E-4B69-4BA9-B46A-44D338F44FAF}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\BatallaNaval\\bll\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{F13E149E-4B69-4BA9-B46A-44D338F44FAF}|BLL\\BLL.csproj|solutionrelative:bll\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E149E-4B69-4BA9-B46A-44D338F44FAF}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\BatallaNaval\\bll\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E149E-4B69-4BA9-B46A-44D338F44FAF}|BLL\\BLL.csproj|solutionrelative:bll\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EB2FF9-0BD3-4FBF-94FD-F2C612A80426}|BatallaNaval.csproj|D:\\Programacion\\LUG\\BatallaNaval\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9EB2FF9-0BD3-4FBF-94FD-F2C612A80426}|BatallaNaval.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740E0D6A-53E5-4027-956B-A7AD34226760}|DAL\\DAL.csproj|d:\\programacion\\lug\\batallanaval\\dal\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{740E0D6A-53E5-4027-956B-A7AD34226760}|DAL\\DAL.csproj|solutionrelative:dal\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740E0D6A-53E5-4027-956B-A7AD34226760}|DAL\\DAL.csproj|D:\\Programacion\\LUG\\BatallaNaval\\dal\\mp_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740E0D6A-53E5-4027-956B-A7AD34226760}|DAL\\DAL.csproj|solutionrelative:dal\\mp_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EB2FF9-0BD3-4FBF-94FD-F2C612A80426}|BatallaNaval.csproj|D:\\Programacion\\LUG\\BatallaNaval\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EB2FF9-0BD3-4FBF-94FD-F2C612A80426}|BatallaNaval.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E149E-4B69-4BA9-B46A-44D338F44FAF}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\BatallaNaval\\bll\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E149E-4B69-4BA9-B46A-44D338F44FAF}|BLL\\BLL.csproj|solutionrelative:bll\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\casillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\casillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\coordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\coordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E149E-4B69-4BA9-B46A-44D338F44FAF}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\BatallaNaval\\bll\\delenviarcasillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E149E-4B69-4BA9-B46A-44D338F44FAF}|BLL\\BLL.csproj|solutionrelative:bll\\delenviarcasillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\fragata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\fragata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\estado_barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\estado_barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\acorazado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\acorazado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\buque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\buque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\portaavion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\portaavion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\batallanaval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\batallanaval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|D:\\Programacion\\LUG\\BatallaNaval\\be\\estado_casillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3ECB30-123C-4158-83DA-00355A60C1B7}|BE\\BE.csproj|solutionrelative:be\\estado_casillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740E0D6A-53E5-4027-956B-A7AD34226760}|DAL\\DAL.csproj|D:\\Programacion\\LUG\\BatallaNaval\\dal\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740E0D6A-53E5-4027-956B-A7AD34226760}|DAL\\DAL.csproj|solutionrelative:dal\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\DAL\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "DAL\\ClassDiagram1.cd",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\DAL\\ClassDiagram1.cd*",
+              "RelativeToolTip": "DAL\\ClassDiagram1.cd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-10-13T01:59:16.158Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BLL\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "BLL\\ClassDiagram1.cd",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BLL\\ClassDiagram1.cd*",
+              "RelativeToolTip": "BLL\\ClassDiagram1.cd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-10-14T23:42:57.384Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "BE\\ClassDiagram1.cd",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\ClassDiagram1.cd",
+              "RelativeToolTip": "BE\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-10-14T19:52:41.77Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MP_USUARIO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\DAL\\MP_USUARIO.cs",
+              "RelativeDocumentMoniker": "DAL\\MP_USUARIO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\DAL\\MP_USUARIO.cs",
+              "RelativeToolTip": "DAL\\MP_USUARIO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:05:23.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JUGADOR.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\JUGADOR.cs",
+              "RelativeDocumentMoniker": "BE\\JUGADOR.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\JUGADOR.cs",
+              "RelativeToolTip": "BE\\JUGADOR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T00:15:00.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "COORDENADA.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\COORDENADA.cs",
+              "RelativeDocumentMoniker": "BE\\COORDENADA.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\COORDENADA.cs",
+              "RelativeToolTip": "BE\\COORDENADA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:54:22.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:57:54.729Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TABLERO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BLL\\TABLERO.cs",
+              "RelativeDocumentMoniker": "BLL\\TABLERO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BLL\\TABLERO.cs",
+              "RelativeToolTip": "BLL\\TABLERO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:50:38.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "USUARIO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\USUARIO.cs",
+              "RelativeDocumentMoniker": "BE\\USUARIO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\USUARIO.cs",
+              "RelativeToolTip": "BE\\USUARIO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T00:16:16.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T23:35:17.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "delEnviarCasillero.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BLL\\delEnviarCasillero.cs",
+              "RelativeDocumentMoniker": "BLL\\delEnviarCasillero.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BLL\\delEnviarCasillero.cs",
+              "RelativeToolTip": "BLL\\delEnviarCasillero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:51:52.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JUEGO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BLL\\JUEGO.cs",
+              "RelativeDocumentMoniker": "BLL\\JUEGO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BLL\\JUEGO.cs",
+              "RelativeToolTip": "BLL\\JUEGO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:43:06.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ACCESO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\DAL\\ACCESO.cs",
+              "RelativeDocumentMoniker": "DAL\\ACCESO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\DAL\\ACCESO.cs",
+              "RelativeToolTip": "DAL\\ACCESO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:59:27.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ESTADO_BARCO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\ESTADO_BARCO.cs",
+              "RelativeDocumentMoniker": "BE\\ESTADO_BARCO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\ESTADO_BARCO.cs",
+              "RelativeToolTip": "BE\\ESTADO_BARCO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T22:40:14.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CASILLERO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\CASILLERO.cs",
+              "RelativeDocumentMoniker": "BE\\CASILLERO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\CASILLERO.cs",
+              "RelativeToolTip": "BE\\CASILLERO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:34:18.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ACORAZADO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\ACORAZADO.cs",
+              "RelativeDocumentMoniker": "BE\\ACORAZADO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\ACORAZADO.cs",
+              "RelativeToolTip": "BE\\ACORAZADO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:29:05.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BUQUE.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\BUQUE.cs",
+              "RelativeDocumentMoniker": "BE\\BUQUE.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\BUQUE.cs",
+              "RelativeToolTip": "BE\\BUQUE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:28:36.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FRAGATA.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\FRAGATA.cs",
+              "RelativeDocumentMoniker": "BE\\FRAGATA.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\FRAGATA.cs",
+              "RelativeToolTip": "BE\\FRAGATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:28:11.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PORTAAVION.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\PORTAAVION.cs",
+              "RelativeDocumentMoniker": "BE\\PORTAAVION.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\PORTAAVION.cs",
+              "RelativeToolTip": "BE\\PORTAAVION.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:27:48.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BATALLANAVAL.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\BATALLANAVAL.cs",
+              "RelativeDocumentMoniker": "BE\\BATALLANAVAL.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\BATALLANAVAL.cs",
+              "RelativeToolTip": "BE\\BATALLANAVAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:25:16.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ESTADO_CASILLERO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\ESTADO_CASILLERO.cs",
+              "RelativeDocumentMoniker": "BE\\ESTADO_CASILLERO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\ESTADO_CASILLERO.cs",
+              "RelativeToolTip": "BE\\ESTADO_CASILLERO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:21:32.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BARCO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\BARCO.cs",
+              "RelativeDocumentMoniker": "BE\\BARCO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\BARCO.cs",
+              "RelativeToolTip": "BE\\BARCO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:20:30.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TABLERO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\TABLERO.cs",
+              "RelativeDocumentMoniker": "BE\\TABLERO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\BE\\TABLERO.cs",
+              "RelativeToolTip": "BE\\TABLERO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:02:56.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MAPPER.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\BatallaNaval\\DAL\\MAPPER.cs",
+              "RelativeDocumentMoniker": "DAL\\MAPPER.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\BatallaNaval\\DAL\\MAPPER.cs",
+              "RelativeToolTip": "DAL\\MAPPER.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T02:25:13.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

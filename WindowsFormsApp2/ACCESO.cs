@@ -11,7 +11,7 @@ namespace WindowsFormsApp2
     public class ACCESO
     {
         SqlConnection conexion;
-        string StrConexion = "Integrated Security=SSPI;Initial Catalog=BASE;Data Source=.";
+        string StrConexion = "Integrated Security=SSPI;Initial Catalog=BASE2;Data Source=.";
 
         public void Abrir()
         {

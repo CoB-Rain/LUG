@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CuatroCapas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|d:\\cuatrocapas\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|d:\\cuatrocapas\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|d:\\cuatrocapas\\presentacion\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|d:\\cuatrocapas\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015100D9-6A5E-4148-B5FF-F05DFBB3B530}|BLL\\BLL.csproj|d:\\cuatrocapas\\bll\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015100D9-6A5E-4148-B5FF-F05DFBB3B530}|BLL\\BLL.csproj|solutionrelative:bll\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|d:\\cuatrocapas\\presentacion\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|d:\\cuatrocapas\\presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|d:\\cuatrocapas\\presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|d:\\cuatrocapas\\presentacion\\frmpersona.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmpersona.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|d:\\cuatrocapas\\presentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|d:\\cuatrocapas\\presentacion\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Presentacion||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015100D9-6A5E-4148-B5FF-F05DFBB3B530}|BLL\\BLL.csproj|d:\\cuatrocapas\\bll\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015100D9-6A5E-4148-B5FF-F05DFBB3B530}|BLL\\BLL.csproj|solutionrelative:bll\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986DC441-B819-4453-A0AC-195F255B946F}|DAL\\DAL.csproj|d:\\cuatrocapas\\dal\\mp_persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986DC441-B819-4453-A0AC-195F255B946F}|DAL\\DAL.csproj|solutionrelative:dal\\mp_persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986DC441-B819-4453-A0AC-195F255B946F}|DAL\\DAL.csproj|d:\\cuatrocapas\\dal\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{986DC441-B819-4453-A0AC-195F255B946F}|DAL\\DAL.csproj|solutionrelative:dal\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986DC441-B819-4453-A0AC-195F255B946F}|DAL\\DAL.csproj|d:\\cuatrocapas\\dal\\mp_titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986DC441-B819-4453-A0AC-195F255B946F}|DAL\\DAL.csproj|solutionrelative:dal\\mp_titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986DC441-B819-4453-A0AC-195F255B946F}|DAL\\DAL.csproj|d:\\cuatrocapas\\dal\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986DC441-B819-4453-A0AC-195F255B946F}|DAL\\DAL.csproj|solutionrelative:dal\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87F5D2D-E93D-4FF3-8A06-885D2B94E4AD}|BE\\BE.csproj|d:\\cuatrocapas\\be\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87F5D2D-E93D-4FF3-8A06-885D2B94E4AD}|BE\\BE.csproj|solutionrelative:be\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87F5D2D-E93D-4FF3-8A06-885D2B94E4AD}|BE\\BE.csproj|d:\\cuatrocapas\\be\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87F5D2D-E93D-4FF3-8A06-885D2B94E4AD}|BE\\BE.csproj|solutionrelative:be\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986DC441-B819-4453-A0AC-195F255B946F}|DAL\\DAL.csproj|d:\\cuatrocapas\\dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986DC441-B819-4453-A0AC-195F255B946F}|DAL\\DAL.csproj|solutionrelative:dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87F5D2D-E93D-4FF3-8A06-885D2B94E4AD}|BE\\BE.csproj|d:\\cuatrocapas\\be\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C87F5D2D-E93D-4FF3-8A06-885D2B94E4AD}|BE\\BE.csproj|solutionrelative:be\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C225B52-0A9E-4B43-AAB8-3411396961A1}|Presentacion\\Presentacion.csproj|d:\\cuatrocapas\\presentacion\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Program.cs",
+              "ToolTip": "D:\\CuatroCapas\\Presentacion\\Program.cs",
+              "RelativeToolTip": "Presentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:38:37.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPersona.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\Presentacion\\FrmPersona.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmPersona.cs",
+              "ToolTip": "D:\\CuatroCapas\\Presentacion\\FrmPersona.cs",
+              "RelativeToolTip": "Presentacion\\FrmPersona.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:37:36.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPersona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CuatroCapas\\Presentacion\\FrmPersona.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmPersona.cs",
+              "ToolTip": "D:\\CuatroCapas\\Presentacion\\FrmPersona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FrmPersona.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:37:33.974Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\BLL\\Persona.cs",
+              "RelativeDocumentMoniker": "BLL\\Persona.cs",
+              "ToolTip": "D:\\CuatroCapas\\BLL\\Persona.cs",
+              "RelativeToolTip": "BLL\\Persona.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:30:19.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CuatroCapas\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "D:\\CuatroCapas\\Presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:36:06.47Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "D:\\CuatroCapas\\Presentacion\\Form1.cs",
+              "RelativeToolTip": "Presentacion\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:36:09.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FRMPRINCIPAL.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\Presentacion\\FRMPRINCIPAL.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FRMPRINCIPAL.cs",
+              "ToolTip": "D:\\CuatroCapas\\Presentacion\\FRMPRINCIPAL.cs",
+              "RelativeToolTip": "Presentacion\\FRMPRINCIPAL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:35:14.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FRMPRINCIPAL.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CuatroCapas\\Presentacion\\FRMPRINCIPAL.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FRMPRINCIPAL.cs",
+              "ToolTip": "D:\\CuatroCapas\\Presentacion\\FRMPRINCIPAL.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FRMPRINCIPAL.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:34:37.018Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPersona.Designer.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\Presentacion\\FrmPersona.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmPersona.Designer.cs",
+              "ToolTip": "D:\\CuatroCapas\\Presentacion\\FrmPersona.Designer.cs",
+              "RelativeToolTip": "Presentacion\\FrmPersona.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv1YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:37:48.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\Presentacion\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.Designer.cs",
+              "ToolTip": "D:\\CuatroCapas\\Presentacion\\Form1.Designer.cs",
+              "RelativeToolTip": "Presentacion\\Form1.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv2EAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:36:28.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FRMPRINCIPAL.Designer.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\Presentacion\\FRMPRINCIPAL.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FRMPRINCIPAL.Designer.cs",
+              "ToolTip": "D:\\CuatroCapas\\Presentacion\\FRMPRINCIPAL.Designer.cs",
+              "RelativeToolTip": "Presentacion\\FRMPRINCIPAL.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:34:45.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Presentacion",
+              "DocumentMoniker": "D:\\CuatroCapas\\Presentacion\\Presentacion.csproj",
+              "RelativeDocumentMoniker": "Presentacion\\Presentacion.csproj",
+              "ToolTip": "D:\\CuatroCapas\\Presentacion\\Presentacion.csproj",
+              "RelativeToolTip": "Presentacion\\Presentacion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-12T00:34:19.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MP_PERSONA.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\DAL\\MP_PERSONA.cs",
+              "RelativeDocumentMoniker": "DAL\\MP_PERSONA.cs",
+              "ToolTip": "D:\\CuatroCapas\\DAL\\MP_PERSONA.cs",
+              "RelativeToolTip": "DAL\\MP_PERSONA.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvycAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:24:34.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\CuatroCapas\\DAL\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "DAL\\ClassDiagram1.cd",
+              "ToolTip": "D:\\CuatroCapas\\DAL\\ClassDiagram1.cd",
+              "RelativeToolTip": "DAL\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-12T00:23:58.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MP_TItulo.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\DAL\\MP_TItulo.cs",
+              "RelativeDocumentMoniker": "DAL\\MP_TItulo.cs",
+              "ToolTip": "D:\\CuatroCapas\\DAL\\MP_TItulo.cs",
+              "RelativeToolTip": "DAL\\MP_TItulo.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:15:57.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Titulo.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\BLL\\Titulo.cs",
+              "RelativeDocumentMoniker": "BLL\\Titulo.cs",
+              "ToolTip": "D:\\CuatroCapas\\BLL\\Titulo.cs",
+              "RelativeToolTip": "BLL\\Titulo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:09:05.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\DAL\\Mapper.cs",
+              "RelativeDocumentMoniker": "DAL\\Mapper.cs",
+              "ToolTip": "D:\\CuatroCapas\\DAL\\Mapper.cs",
+              "RelativeToolTip": "DAL\\Mapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:14:12.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Acceso.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\DAL\\Acceso.cs",
+              "RelativeDocumentMoniker": "DAL\\Acceso.cs",
+              "ToolTip": "D:\\CuatroCapas\\DAL\\Acceso.cs",
+              "RelativeToolTip": "DAL\\Acceso.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwv24AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:13:05.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\CuatroCapas\\BE\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "BE\\ClassDiagram1.cd",
+              "ToolTip": "D:\\CuatroCapas\\BE\\ClassDiagram1.cd",
+              "RelativeToolTip": "BE\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-12T00:12:29.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Titulo.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\BE\\Titulo.cs",
+              "RelativeDocumentMoniker": "BE\\Titulo.cs",
+              "ToolTip": "D:\\CuatroCapas\\BE\\Titulo.cs",
+              "RelativeToolTip": "BE\\Titulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:10:40.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PERSONA.cs",
+              "DocumentMoniker": "D:\\CuatroCapas\\BE\\PERSONA.cs",
+              "RelativeDocumentMoniker": "BE\\PERSONA.cs",
+              "ToolTip": "D:\\CuatroCapas\\BE\\PERSONA.cs",
+              "RelativeToolTip": "BE\\PERSONA.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvyYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:10:15.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{343F15E2-AA0A-458A-B553-D07AD7607069}|..\\ACCESO\\ACCESO.csproj|d:\\programacion\\lug\\3 capas\\3 capas\\acceso\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A452DF1A-EDA2-4960-890F-D394F2D4E385}|..\\Negocio\\Negocio.csproj|d:\\programacion\\lug\\3 capas\\3 capas\\negocio\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D856DA9-B4D2-4DDF-B205-A06D35859E2F}|Transacciones.csproj|D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D856DA9-B4D2-4DDF-B205-A06D35859E2F}|Transacciones.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D856DA9-B4D2-4DDF-B205-A06D35859E2F}|Transacciones.csproj|D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D856DA9-B4D2-4DDF-B205-A06D35859E2F}|Transacciones.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D856DA9-B4D2-4DDF-B205-A06D35859E2F}|Transacciones.csproj|D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D856DA9-B4D2-4DDF-B205-A06D35859E2F}|Transacciones.csproj|solutionrelative:frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A452DF1A-EDA2-4960-890F-D394F2D4E385}|..\\Negocio\\Negocio.csproj|d:\\programacion\\lug\\3 capas\\3 capas\\negocio\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D856DA9-B4D2-4DDF-B205-A06D35859E2F}|Transacciones.csproj|D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D856DA9-B4D2-4DDF-B205-A06D35859E2F}|Transacciones.csproj|solutionrelative:frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D856DA9-B4D2-4DDF-B205-A06D35859E2F}|Transacciones.csproj|D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D856DA9-B4D2-4DDF-B205-A06D35859E2F}|Transacciones.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D856DA9-B4D2-4DDF-B205-A06D35859E2F}|Transacciones.csproj|D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D856DA9-B4D2-4DDF-B205-A06D35859E2F}|Transacciones.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Acceso.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\3 capas\\3 capas\\ACCESO\\Acceso.cs",
+              "RelativeDocumentMoniker": "..\\ACCESO\\Acceso.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\3 capas\\3 capas\\ACCESO\\Acceso.cs",
+              "RelativeToolTip": "..\\ACCESO\\Acceso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:37:17.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Titulo.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Negocio\\Titulo.cs",
+              "RelativeDocumentMoniker": "..\\Negocio\\Titulo.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Negocio\\Titulo.cs",
+              "RelativeToolTip": "..\\Negocio\\Titulo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:37:14.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PERSONA.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Negocio\\PERSONA.cs",
+              "RelativeDocumentMoniker": "..\\Negocio\\PERSONA.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Negocio\\PERSONA.cs",
+              "RelativeToolTip": "..\\Negocio\\PERSONA.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:36:52.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\FrmPrincipal.cs",
+              "RelativeToolTip": "FrmPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:48:13.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:24:37.933Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPersona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\frmPersona.cs",
+              "RelativeDocumentMoniker": "frmPersona.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\frmPersona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmPersona.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:47:56.18Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPersona.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\frmPersona.cs",
+              "RelativeDocumentMoniker": "frmPersona.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\frmPersona.cs",
+              "RelativeToolTip": "frmPersona.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T01:06:33.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:46:37.656Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\3 capas\\3 capas\\Transacciones\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:18:37.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

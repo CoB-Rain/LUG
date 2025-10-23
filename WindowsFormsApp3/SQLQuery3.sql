@@ -1,0 +1,5 @@
+create proc TITULO_LISTAR
+as
+BEGIN
+	SELECT * FROM TITULO
+END

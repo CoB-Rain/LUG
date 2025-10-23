@@ -1,0 +1,118 @@
+USE [FUTBOL]
+GO
+/****** Object:  Table [dbo].[BARRIO]    Script Date: 3/9/2025 20:56:44 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[BARRIO](
+	[ID_BARRIO] [int] IDENTITY(1,1) NOT NULL,
+	[Barrio] [varchar](50) NOT NULL,
+ CONSTRAINT [PK_BARRIO] PRIMARY KEY CLUSTERED 
+(
+	[ID_BARRIO] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[EQUIPO]    Script Date: 3/9/2025 20:56:44 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[EQUIPO](
+	[ID_EQUIPO] [int] NOT NULL,
+	[Equipo] [varchar](50) NOT NULL,
+	[ID_barrio] [int] NOT NULL,
+ CONSTRAINT [PK_EQUIPO] PRIMARY KEY CLUSTERED 
+(
+	[ID_EQUIPO] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[EQUIPO]  WITH CHECK ADD  CONSTRAINT [FK_EQUIPO_BARRIO] FOREIGN KEY([ID_barrio])
+REFERENCES [dbo].[BARRIO] ([ID_BARRIO])
+GO
+ALTER TABLE [dbo].[EQUIPO] CHECK CONSTRAINT [FK_EQUIPO_BARRIO]
+GO
+/****** Object:  StoredProcedure [dbo].[BARRIO_LISTAR]    Script Date: 3/9/2025 20:56:44 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[BARRIO_LISTAR]
+as
+BEGIN
+SELECT ID_BARRIO, BARRIO
+FROM BARRIO
+END
+GO
+/****** Object:  StoredProcedure [dbo].[EQUIPO_BORRAR]    Script Date: 3/9/2025 20:56:44 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROC [dbo].[EQUIPO_BORRAR]
+@id int
+as
+BEGIN
+DELETE FROM EQUIPO
+where ID_EQUIPO = @id
+
+END
+
+GO
+/****** Object:  StoredProcedure [dbo].[EQUIPO_EDITAR]    Script Date: 3/9/2025 20:56:44 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROC [dbo].[EQUIPO_EDITAR]
+@id int, @equipo varchar(50), @id_barrio int
+as
+BEGIN
+update EQUIPO set
+Equipo = @equipo,
+ID_barrio = @id_barrio
+where ID_EQUIPO = @id
+
+END
+
+GO
+/****** Object:  StoredProcedure [dbo].[EQUIPO_INSERTAR]    Script Date: 3/9/2025 20:56:44 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[EQUIPO_INSERTAR]
+@equipo varchar(50), @id_barrio int
+as
+BEGIN
+
+Declare @id int 
+set @id = (Select ISNULL(max(id_equipo),0) +1 from EQUIPO)
+
+
+insert into EQUIPO (ID_EQUIPO,Equipo, ID_barrio)
+values (@id,@equipo,@id_barrio)
+
+END
+
+GO
+/****** Object:  StoredProcedure [dbo].[EQUIPO_LISTAR]    Script Date: 3/9/2025 20:56:44 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[EQUIPO_LISTAR]
+as
+BEGIN
+SELECT ID_EQUIPO, EQUIPO ,ID_BARRIO
+FROM EQUIPO
+END
+GO
+USE [master]
+GO
+ALTER DATABASE [FUTBOL] SET  READ_WRITE 
+GO

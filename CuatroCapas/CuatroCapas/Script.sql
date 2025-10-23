@@ -1,0 +1,172 @@
+USE [BASE]
+GO
+/****** Object:  Table [dbo].[PERSONA]    Script Date: 11/9/2024 21:52:04 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PERSONA](
+	[ID] [int] NOT NULL,
+	[NOMBRE] [varchar](50) NOT NULL,
+	[APELLIDO] [varchar](50) NOT NULL,
+ CONSTRAINT [PK_PERSONA] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[PERSONA_TITULO]    Script Date: 11/9/2024 21:52:04 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PERSONA_TITULO](
+	[ID_P] [int] NOT NULL,
+	[ID_T] [int] NOT NULL,
+ CONSTRAINT [PK_PERSONA_TITULO] PRIMARY KEY CLUSTERED 
+(
+	[ID_P] ASC,
+	[ID_T] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[TITULO]    Script Date: 11/9/2024 21:52:04 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[TITULO](
+	[ID] [int] NOT NULL,
+	[DESCRIPCION] [varchar](50) NOT NULL,
+ CONSTRAINT [PK_TITULO] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[PERSONA_TITULO]  WITH CHECK ADD  CONSTRAINT [FK_PERSONA_TITULO_PERSONA] FOREIGN KEY([ID_P])
+REFERENCES [dbo].[PERSONA] ([ID])
+GO
+ALTER TABLE [dbo].[PERSONA_TITULO] CHECK CONSTRAINT [FK_PERSONA_TITULO_PERSONA]
+GO
+ALTER TABLE [dbo].[PERSONA_TITULO]  WITH CHECK ADD  CONSTRAINT [FK_PERSONA_TITULO_TITULO] FOREIGN KEY([ID_T])
+REFERENCES [dbo].[TITULO] ([ID])
+GO
+ALTER TABLE [dbo].[PERSONA_TITULO] CHECK CONSTRAINT [FK_PERSONA_TITULO_TITULO]
+GO
+/****** Object:  StoredProcedure [dbo].[PERSONA_INSERTAR]    Script Date: 11/9/2024 21:52:04 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[PERSONA_INSERTAR]
+@nom varchar(50), @APE varchar(50)
+as 
+BEGIN
+declare @id int
+set @id = (select isnull(max(id),0) +1 from persona)
+
+insert into persona (id,NOMBRE,APELLIDO) values (@id,@nom,@APE)
+
+END
+GO
+/****** Object:  StoredProcedure [dbo].[PERSONA_OBTENERMAXID]    Script Date: 11/9/2024 21:52:04 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[PERSONA_OBTENERMAXID]
+as 
+BEGIN
+
+select isnull(max(id),0) from persona
+
+END
+GO
+/****** Object:  StoredProcedure [dbo].[PERSONA_TITULO_INSERTAR]    Script Date: 11/9/2024 21:52:04 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[PERSONA_TITULO_INSERTAR]
+@id int, @id_t int 
+as 
+BEGIN
+
+INSERT INTO PERSONA_TITULO (ID_P,ID_T) values (@id, @id_t)
+
+END
+GO
+/****** Object:  StoredProcedure [dbo].[TITULO_BORRAR]    Script Date: 11/9/2024 21:52:04 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[TITULO_BORRAR]
+@id int 
+as 
+begin 
+
+if not exists(select * from PERSONA_TITULO where ID_T = @id)
+begin
+	delete from TITULO where ID = @id
+end
+end
+
+GO
+/****** Object:  StoredProcedure [dbo].[TITULO_EDITAR]    Script Date: 11/9/2024 21:52:04 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROC [dbo].[TITULO_EDITAR]
+@id int, @desc varchar(50) 
+as 
+begin 
+update TITULO set DESCRIPCION = @desc where ID = @id
+end
+GO
+/****** Object:  StoredProcedure [dbo].[TITULO_INSERTAR]    Script Date: 11/9/2024 21:52:04 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROC [dbo].[TITULO_INSERTAR]
+@titulo varchar(50)
+as
+BEGIN
+
+	declare @id int
+
+	set @id = (select ISNULL(max(id), 0) + 1 from titulo)
+
+	declare @existe int 
+
+	set @existe = (select count(*) from titulo where DESCRIPCION = @titulo)
+
+	if @existe = 0
+	begin
+		INSERT INTO TITULO (ID, DESCRIPCION) values (@id, @titulo)
+	end
+
+END
+
+
+
+
+
+GO
+/****** Object:  StoredProcedure [dbo].[TITULO_LISTAR]    Script Date: 11/9/2024 21:52:04 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+Create proc [dbo].[TITULO_LISTAR]
+as
+SELECT * FROM TITULO
+GO
+USE [master]
+GO
+ALTER DATABASE [BASE] SET  READ_WRITE 
+GO

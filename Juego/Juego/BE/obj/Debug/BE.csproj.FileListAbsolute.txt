@@ -1,0 +1,12 @@
+D:\Juego\BE\bin\Debug\BE.dll
+D:\Juego\BE\bin\Debug\BE.pdb
+D:\Juego\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\Juego\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Juego\BE\obj\Debug\BE.dll
+D:\Juego\BE\obj\Debug\BE.pdb
+D:\universidad\LUG\Juego\Juego\BE\bin\Debug\BE.dll
+D:\universidad\LUG\Juego\Juego\BE\bin\Debug\BE.pdb
+D:\universidad\LUG\Juego\Juego\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\universidad\LUG\Juego\Juego\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\universidad\LUG\Juego\Juego\BE\obj\Debug\BE.dll
+D:\universidad\LUG\Juego\Juego\BE\obj\Debug\BE.pdb

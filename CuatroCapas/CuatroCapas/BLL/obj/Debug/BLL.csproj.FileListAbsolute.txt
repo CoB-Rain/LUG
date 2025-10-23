@@ -1,0 +1,11 @@
+D:\CuatroCapas\BLL\bin\Debug\BLL.dll
+D:\CuatroCapas\BLL\bin\Debug\BLL.pdb
+D:\CuatroCapas\BLL\bin\Debug\BE.dll
+D:\CuatroCapas\BLL\bin\Debug\DAL.dll
+D:\CuatroCapas\BLL\bin\Debug\BE.pdb
+D:\CuatroCapas\BLL\bin\Debug\DAL.pdb
+D:\CuatroCapas\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\CuatroCapas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\CuatroCapas\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\CuatroCapas\BLL\obj\Debug\BLL.dll
+D:\CuatroCapas\BLL\obj\Debug\BLL.pdb
