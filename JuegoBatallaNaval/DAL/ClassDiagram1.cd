@@ -17,8 +17,15 @@
   <Class Name="DAL.MP_USUARIO">
     <Position X="3.75" Y="4.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAQAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQAAA=</HashCode>
+      <HashCode>AAAQAAAAAEAAAAAAAAAAAgAAAIAAAAAAAAAAAAAQAAA=</HashCode>
       <FileName>MP_USUARIO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.MP_JUGADOR">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>MP_JUGADOR.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
