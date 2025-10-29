@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram MajorVersion="1" MinorVersion="1">
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
   <Class Name="DAL.ACCESO">
-    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Position X="0.5" Y="0.5" Width="5.25" />
     <TypeIdentifier>
       <HashCode>EABAAAAAQACAAAAAAAAAAAAAAACAAABAIAAAAAAAAAE=</HashCode>
       <FileName>ACCESO.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DAL.MAPPER&lt;T&gt;">
-    <Position X="3.75" Y="0.5" Width="1.5" />
+    <Position X="0.5" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAQAAAAQEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQAAA=</HashCode>
       <FileName>MAPPER.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DAL.MP_USUARIO">
-    <Position X="3.75" Y="4.5" Width="1.5" />
+    <Position X="0.5" Y="7.25" Width="2.75" />
     <TypeIdentifier>
       <HashCode>AAAQAAAAAEAAAAAAAAAAAgAAAIAAAAAAAAAAAAAQAAA=</HashCode>
       <FileName>MP_USUARIO.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="DAL.MP_JUGADOR">
-    <Position X="6.5" Y="4.5" Width="1.5" />
+    <Position X="4.25" Y="7.25" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAQAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQAAA=</HashCode>
       <FileName>MP_JUGADOR.cs</FileName>

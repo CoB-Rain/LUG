@@ -30,5 +30,13 @@ namespace BE
 			get { return _contraseña; }
 			set { _contraseña = value; }
 		}
+
+		private List<JUGADOR> _jugadores;
+
+		public List<JUGADOR> Jugadores
+		{
+			get { return _jugadores; }
+			set { _jugadores = value; }
+		}
 	}
 }

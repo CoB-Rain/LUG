@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram MajorVersion="1" MinorVersion="1">
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
   <Class Name="BE.USUARIO">
-    <Position X="5.75" Y="2.25" Width="1.5" />
+    <Position X="0.5" Y="0.5" Width="3" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAgAIAAABAgAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAgAIAAABAgAAAAAAQAAAAAAAAAAKACAA=</HashCode>
       <FileName>USUARIO.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BE.JUGADOR">
-    <Position X="2.75" Y="4.5" Width="2" />
+    <Position X="4" Y="3.75" Width="2.75" />
     <TypeIdentifier>
-      <HashCode>AQAAAAgAAAAAAAACAAAAAAAAAAAABABAAAAAACAAAAA=</HashCode>
+      <HashCode>AQAAAAgAAAAAgAACAABAAAAAAAAABABAAAAAACAAAAA=</HashCode>
       <FileName>JUGADOR.cs</FileName>
     </TypeIdentifier>
   </Class>

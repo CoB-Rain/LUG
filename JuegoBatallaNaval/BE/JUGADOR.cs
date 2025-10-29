@@ -5,30 +5,38 @@ using System.Text;
 
 namespace BE
 {
-    public class JUGADOR : USUARIO
+    public class JUGADOR
     {
-		private int _totalPartidasGanadas;
+        private int _id;
 
-		public int TotalPartidasGanadas
-		{
-			get { return _totalPartidasGanadas; }
-			set { _totalPartidasGanadas = value; }
-		}
+        public int ID
+        {
+            get { return _id; }
+            set { _id = value; }
+        }
 
-		private int _totalPartidasEmpatadas;
+        private int _totalPartidasGanadas;
 
-		public int TotalPartidasEmpatadas
-		{
-			get { return _totalPartidasEmpatadas; }
-			set { _totalPartidasEmpatadas = value; }
-		}
+        public int TotalPartidasGanadas
+        {
+            get { return _totalPartidasGanadas; }
+            set { _totalPartidasGanadas = value; }
+        }
 
-		private int _totalPartidasPerdidas;
+        private int _totalPartidasEmpatadas;
 
-		public int TotalPartidasPerdidas
-		{
-			get { return _totalPartidasPerdidas; }
-			set { _totalPartidasPerdidas = value; }
-		}
-	}
+        public int TotalPartidasEmpatadas
+        {
+            get { return _totalPartidasEmpatadas; }
+            set { _totalPartidasEmpatadas = value; }
+        }
+
+        private int _totalPartidasPerdidas;
+
+        public int TotalPartidasPerdidas
+        {
+            get { return _totalPartidasPerdidas; }
+            set { _totalPartidasPerdidas = value; }
+        }
+    }
 }
