@@ -8,7 +8,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="BE.JUGADOR">
-    <Position X="4" Y="3.75" Width="2.75" />
+    <Position X="4" Y="3.25" Width="2.75" />
     <TypeIdentifier>
       <HashCode>AQAAAAgAAAAAgAACAABAAAAAAAAABABAAAAAACAAAAA=</HashCode>
       <FileName>JUGADOR.cs</FileName>

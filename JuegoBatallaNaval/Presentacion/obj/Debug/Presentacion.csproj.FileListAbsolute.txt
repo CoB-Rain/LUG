@@ -25,3 +25,30 @@ D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\OJO_ABIERTO.jpg
 D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\OJO_CERRADO.jpg
 D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.FrmAltaUsuario.resources
 D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.Form1.resources
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\ACORAZADO.jpg
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\BATALLA NAVAL.jpg
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\BUQUE.jpg
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\FRAGATA.jpg
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\OJO_ABIERTO.jpg
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\OJO_CERRADO.jpg
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\PORTA AVIONES.jpg
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\Presentacion.exe.config
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\Presentacion.exe
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\Presentacion.pdb
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\BE.dll
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\BLL.dll
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\DAL.dll
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\BE.pdb
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\BLL.pdb
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\DAL.pdb
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.exe.config
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.Form1.resources
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.FrmAltaUsuario.resources
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.exe
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.pdb

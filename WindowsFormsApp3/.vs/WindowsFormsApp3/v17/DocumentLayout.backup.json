@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "D:\\Programacion\\LUG\\WindowsFormsApp3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|d:\\programacion\\lug\\windowsformsapp3\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|d:\\programacion\\lug\\windowsformsapp3\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,24 +35,8 @@
       "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 9,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp3\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "ClassDiagram1.cd",
@@ -71,20 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmPersona.cs",
-              "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp3\\FrmPersona.cs",
-              "RelativeDocumentMoniker": "FrmPersona.cs",
-              "ToolTip": "D:\\Programacion\\LUG\\WindowsFormsApp3\\FrmPersona.cs",
-              "RelativeToolTip": "FrmPersona.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADgvyYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T03:33:54.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "FrmPrincipal.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp3\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "FrmPrincipal.cs",
@@ -97,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -110,19 +97,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmPersona.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp3\\FrmPersona.cs",
-              "RelativeDocumentMoniker": "FrmPersona.cs",
-              "ToolTip": "D:\\Programacion\\LUG\\WindowsFormsApp3\\FrmPersona.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FrmPersona.cs [Dise\u00F1o]",
+              "DocumentIndex": 3,
+              "Title": "ACCESO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp3\\ACCESO.cs",
+              "RelativeDocumentMoniker": "ACCESO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\WindowsFormsApp3\\ACCESO.cs",
+              "RelativeToolTip": "ACCESO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T01:42:23.482Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-21T00:23:04.188Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FrmPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp3\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "FrmPrincipal.cs",
@@ -134,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TITULO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp3\\TITULO.cs",
               "RelativeDocumentMoniker": "TITULO.cs",
@@ -142,18 +130,17 @@
               "RelativeToolTip": "TITULO.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA2wC4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T00:44:05.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T00:44:05.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PERSONA.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp3\\PERSONA.cs",
               "RelativeDocumentMoniker": "PERSONA.cs",
               "ToolTip": "D:\\Programacion\\LUG\\WindowsFormsApp3\\PERSONA.cs",
               "RelativeToolTip": "PERSONA.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowD4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowD4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T01:54:45.145Z",
               "EditorCaption": ""
@@ -161,15 +148,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ACCESO.cs",
-              "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp3\\ACCESO.cs",
-              "RelativeDocumentMoniker": "ACCESO.cs",
-              "ToolTip": "D:\\Programacion\\LUG\\WindowsFormsApp3\\ACCESO.cs",
-              "RelativeToolTip": "ACCESO.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwEAAAAA8AAAAAAAAAA==",
+              "Title": "FrmPersona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp3\\FrmPersona.cs",
+              "RelativeDocumentMoniker": "FrmPersona.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\WindowsFormsApp3\\FrmPersona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmPersona.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T00:23:04.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T01:42:23.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmPersona.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp3\\FrmPersona.cs",
+              "RelativeDocumentMoniker": "FrmPersona.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\WindowsFormsApp3\\FrmPersona.cs",
+              "RelativeToolTip": "FrmPersona.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvyYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T03:33:54.376Z"
             },
             {
               "$type": "Document",
@@ -181,8 +178,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAIAwwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T00:51:06.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T00:51:06.913Z"
             },
             {
               "$type": "Document",
@@ -193,8 +189,7 @@
               "ToolTip": "D:\\Programacion\\LUG\\WindowsFormsApp3\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T00:48:39.297Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-17T00:48:39.297Z"
             }
           ]
         }

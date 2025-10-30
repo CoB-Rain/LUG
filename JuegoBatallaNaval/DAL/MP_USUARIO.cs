@@ -29,7 +29,7 @@ namespace DAL
             parametros.Add(acceso.CrearParametro("@id", obj.ID));
             parametros.Add(acceso.CrearParametro("@nom", obj.Nombre));
             parametros.Add(acceso.CrearParametro("@pass", obj.Contraseña));
-            int res = acceso.Escribir("USUARIO_EDITAR");
+            int res = acceso.Escribir("USUARIO_EDITAR", parametros);
             acceso.Cerrar();
             return res;
         }
@@ -86,6 +86,39 @@ namespace DAL
                 }
             }
             return usuarioEncontrado;
+        }
+
+        public int InsertarJugador(BE.USUARIO usuario)
+        {
+            acceso = new ACCESO();
+            acceso.Abrir();
+            List<SqlParameter> parametros = new List<SqlParameter>();
+            parametros.Add(acceso.CrearParametro("@id_usu", usuario.ID));
+            int res = acceso.Escribir("USUARIO_INSERTAR_JUGADOR", parametros);
+            acceso.Cerrar();
+            return res;
+        }
+
+        public void ObtenerJugadores(BE.USUARIO usuario)
+        {
+            List<BE.JUGADOR> jugadores = new List<BE.JUGADOR>();
+            acceso = new ACCESO();
+            acceso.Abrir();
+            List<SqlParameter> parametros = new List<SqlParameter>();
+            parametros.Add(acceso.CrearParametro("id_usu",usuario.ID));
+            DataTable tabla = acceso.Leer("USUARIO_JUGADOR_LISTAR", parametros);
+            acceso.Cerrar();
+            foreach(DataRow row in tabla.Rows)
+            {
+                BE.JUGADOR j = new BE.JUGADOR();
+                j.ID = int.Parse(row["ID_JUGADOR"].ToString());
+                j.TotalPartidasGanadas = int.Parse(row["PARTIDAS_GANADAS"].ToString());
+                j.TotalPartidasEmpatadas = int.Parse(row["PARTIDAS_EMPATADAS"].ToString());
+                j.TotalPartidasPerdidas = int.Parse(row["PARTIDAS_PERDIDAS"].ToString());
+                jugadores.Add(j);
+            }
+            usuario.Jugadores = null;
+            usuario.Jugadores = jugadores;
         }
     }
 }

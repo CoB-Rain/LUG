@@ -35,5 +35,15 @@ namespace BLL
         {
             return mp.Buscar(usuario);
         }
+
+        public void InsertarJugador(BE.USUARIO usuario)
+        {
+            mp.InsertarJugador(usuario);
+        }
+
+        public void ListarJugadores(BE.USUARIO usuario)
+        {
+            mp.ObtenerJugadores(usuario);
+        }
     }
 }

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Programacion\\LUG\\WindowsFormsApp2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|D:\\Programacion\\LUG\\WindowsFormsApp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|d:\\programacion\\lug\\windowsformsapp2\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|D:\\Programacion\\LUG\\WindowsFormsApp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|D:\\Programacion\\LUG\\WindowsFormsApp2\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|solutionrelative:frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|D:\\Programacion\\LUG\\WindowsFormsApp2\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|solutionrelative:frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|D:\\Programacion\\LUG\\WindowsFormsApp2\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|D:\\Programacion\\LUG\\WindowsFormsApp2\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|solutionrelative:sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|D:\\Programacion\\LUG\\WindowsFormsApp2\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|solutionrelative:frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25870432-450D-44AE-81D3-575A7A891907}|WindowsFormsApp2.csproj|D:\\Programacion\\LUG\\WindowsFormsApp2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -65,21 +65,29 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmLogin.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp2\\FrmLogin.cs",
               "RelativeDocumentMoniker": "FrmLogin.cs",
               "ToolTip": "D:\\Programacion\\LUG\\WindowsFormsApp2\\FrmLogin.cs",
               "RelativeToolTip": "FrmLogin.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T23:17:28.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmLogin.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp2\\FrmLogin.cs",
               "RelativeDocumentMoniker": "FrmLogin.cs",
@@ -91,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -104,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -123,11 +131,12 @@
               "ToolTip": "D:\\Programacion\\LUG\\WindowsFormsApp2\\FrmRegistro.cs [Dise\u00F1o]",
               "RelativeToolTip": "FrmRegistro.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T22:10:26.361Z"
+              "WhenOpened": "2025-10-05T22:10:26.361Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "FrmRegistro.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp2\\FrmRegistro.cs",
               "RelativeDocumentMoniker": "FrmRegistro.cs",
@@ -135,11 +144,12 @@
               "RelativeToolTip": "FrmRegistro.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAjwB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T22:11:43.383Z"
+              "WhenOpened": "2025-10-05T22:11:43.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "USUARIO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp2\\USUARIO.cs",
               "RelativeDocumentMoniker": "USUARIO.cs",
@@ -151,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SEXO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\WindowsFormsApp2\\SEXO.cs",
               "RelativeDocumentMoniker": "SEXO.cs",

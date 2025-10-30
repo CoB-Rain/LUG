@@ -17,7 +17,7 @@
   <Class Name="DAL.MP_USUARIO">
     <Position X="0.5" Y="7.25" Width="2.75" />
     <TypeIdentifier>
-      <HashCode>AAAQAAAAAEAAAAAAAAAAAgAAAIAAAAAAAAAAAAAQAAA=</HashCode>
+      <HashCode>AAAQAAAAQEAAAQAAAAAAAgAAAIAAAAAAAAAAAAAQAAA=</HashCode>
       <FileName>MP_USUARIO.cs</FileName>
     </TypeIdentifier>
   </Class>

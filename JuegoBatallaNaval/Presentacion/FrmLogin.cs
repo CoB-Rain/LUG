@@ -61,12 +61,18 @@ namespace Presentacion
                 if (usuario.Nombre == usuarioBuscar.Nombre && usuario.Contraseña == usuarioBuscar.Contraseña)
                 {
                     MessageBox.Show($"Bienvenido {usuario.Nombre}!");
-                    Form1 frm = new Form1();
-                    frm.Show();
+                    this.Hide();
+                    using (Form1 frm = new Form1(usuario, gestor))
+                    {
+                        frm.ShowDialog();
+                    }
+                    this.Close();
+                    //Form1 frm = new Form1(usuario, gestor);
+                    //frm.Show();
                 }
                 else
                 {
-                    MessageBox.Show("No estas registrado en la BBDD / no existe este usuario");
+                    MessageBox.Show("No existe este usuario");
                 }
             }
             else

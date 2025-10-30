@@ -4,3 +4,9 @@ D:\Programacion\LUG\JuegoBatallaNaval\BE\obj\Debug\BE.csproj.AssemblyReference.c
 D:\Programacion\LUG\JuegoBatallaNaval\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 D:\Programacion\LUG\JuegoBatallaNaval\BE\obj\Debug\BE.dll
 D:\Programacion\LUG\JuegoBatallaNaval\BE\obj\Debug\BE.pdb
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\BE\bin\Debug\BE.dll
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\BE\bin\Debug\BE.pdb
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\BE\obj\Debug\BE.dll
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\BE\obj\Debug\BE.pdb

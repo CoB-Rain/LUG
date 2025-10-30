@@ -7,3 +7,12 @@ D:\Programacion\LUG\JuegoBatallaNaval\DAL\obj\Debug\DAL.csproj.CoreCompileInputs
 D:\Programacion\LUG\JuegoBatallaNaval\DAL\obj\Debug\DAL.csproj.Up2Date
 D:\Programacion\LUG\JuegoBatallaNaval\DAL\obj\Debug\DAL.dll
 D:\Programacion\LUG\JuegoBatallaNaval\DAL\obj\Debug\DAL.pdb
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\obj\Debug\DAL.dll
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\obj\Debug\DAL.pdb
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\bin\Debug\DAL.dll
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\bin\Debug\DAL.pdb
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\bin\Debug\BE.dll
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\bin\Debug\BE.pdb
+G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\obj\Debug\DAL.csproj.Up2Date
