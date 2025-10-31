@@ -54,7 +54,7 @@
             this.txtNombre.Location = new System.Drawing.Point(191, 94);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(287, 20);
-            this.txtNombre.TabIndex = 1;
+            this.txtNombre.TabIndex = 0;
             // 
             // txtContraseña
             // 
@@ -62,7 +62,7 @@
             this.txtContraseña.Name = "txtContraseña";
             this.txtContraseña.PasswordChar = '*';
             this.txtContraseña.Size = new System.Drawing.Size(287, 20);
-            this.txtContraseña.TabIndex = 2;
+            this.txtContraseña.TabIndex = 1;
             // 
             // label2
             // 
@@ -87,7 +87,7 @@
             this.btnIniciarSesion.Location = new System.Drawing.Point(281, 146);
             this.btnIniciarSesion.Name = "btnIniciarSesion";
             this.btnIniciarSesion.Size = new System.Drawing.Size(117, 41);
-            this.btnIniciarSesion.TabIndex = 5;
+            this.btnIniciarSesion.TabIndex = 2;
             this.btnIniciarSesion.Text = "Iniciar Sesion";
             this.btnIniciarSesion.UseVisualStyleBackColor = true;
             this.btnIniciarSesion.Click += new System.EventHandler(this.btnIniciarSesion_Click);
@@ -109,7 +109,7 @@
             this.lnkCrearUsuario.Location = new System.Drawing.Point(258, 190);
             this.lnkCrearUsuario.Name = "lnkCrearUsuario";
             this.lnkCrearUsuario.Size = new System.Drawing.Size(155, 13);
-            this.lnkCrearUsuario.TabIndex = 7;
+            this.lnkCrearUsuario.TabIndex = 3;
             this.lnkCrearUsuario.TabStop = true;
             this.lnkCrearUsuario.Text = "¿no tienes una cuenta creada?";
             this.lnkCrearUsuario.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkCrearUsuario_LinkClicked);

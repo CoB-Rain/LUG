@@ -85,5 +85,10 @@ namespace Presentacion
         {
             jugadorSeleccionado = (BE.JUGADOR)dataGridView1.CurrentRow.DataBoundItem;
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

@@ -66,9 +66,9 @@ namespace Presentacion
                     {
                         frm.ShowDialog();
                     }
-                    this.Close();
-                    //Form1 frm = new Form1(usuario, gestor);
-                    //frm.Show();
+                    this.Show();
+                    txtNombre.Text = "";
+                    txtContraseña.Text = "";
                 }
                 else
                 {
