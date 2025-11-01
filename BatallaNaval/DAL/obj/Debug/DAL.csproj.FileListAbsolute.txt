@@ -1,9 +1,0 @@
-D:\Programacion\LUG\BatallaNaval\DAL\bin\Debug\DAL.dll
-D:\Programacion\LUG\BatallaNaval\DAL\bin\Debug\DAL.pdb
-D:\Programacion\LUG\BatallaNaval\DAL\bin\Debug\BE.dll
-D:\Programacion\LUG\BatallaNaval\DAL\bin\Debug\BE.pdb
-D:\Programacion\LUG\BatallaNaval\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-D:\Programacion\LUG\BatallaNaval\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-D:\Programacion\LUG\BatallaNaval\DAL\obj\Debug\DAL.csproj.Up2Date
-D:\Programacion\LUG\BatallaNaval\DAL\obj\Debug\DAL.dll
-D:\Programacion\LUG\BatallaNaval\DAL\obj\Debug\DAL.pdb

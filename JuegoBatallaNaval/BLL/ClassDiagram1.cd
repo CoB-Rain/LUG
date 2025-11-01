@@ -3,7 +3,7 @@
   <Class Name="BLL.USUARIO">
     <Position X="0.5" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAQAAAAAEAAAAAAAAAAAgAAAAAAQAAAAAACAAAAAAA=</HashCode>
+      <HashCode>AAAQgAAAAEAAAQAAAAAAAgAAAAAAQAAAAAACAAAAAAA=</HashCode>
       <FileName>USUARIO.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -14,5 +14,54 @@
       <FileName>JUGADOR.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="BLL.JUEGO">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JUEGO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.TABLERO">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TABLERO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.PARTIDA">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PARTIDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.TURNO">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TURNO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.BARCO">
+    <Position X="12" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ=</HashCode>
+      <FileName>BARCO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BLL.TipoBarco">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAgACAAAAAAAABAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>TipoBarco.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BLL.DireccionEje">
+    <Position X="9" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DireccionEje.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

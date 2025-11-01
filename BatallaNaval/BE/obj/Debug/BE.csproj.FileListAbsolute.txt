@@ -1,6 +1,0 @@
-D:\Programacion\LUG\BatallaNaval\BE\bin\Debug\BE.dll
-D:\Programacion\LUG\BatallaNaval\BE\bin\Debug\BE.pdb
-D:\Programacion\LUG\BatallaNaval\BE\obj\Debug\BE.csproj.AssemblyReference.cache
-D:\Programacion\LUG\BatallaNaval\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
-D:\Programacion\LUG\BatallaNaval\BE\obj\Debug\BE.dll
-D:\Programacion\LUG\BatallaNaval\BE\obj\Debug\BE.pdb

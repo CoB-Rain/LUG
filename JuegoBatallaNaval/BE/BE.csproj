@@ -41,8 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ACORAZADO.cs" />
+    <Compile Include="BARCO.cs" />
+    <Compile Include="BATALLA_NAVAL.cs" />
+    <Compile Include="BUQUE.cs" />
+    <Compile Include="CASILLERO.cs" />
+    <Compile Include="COORDENADA.cs" />
+    <Compile Include="ESTADO_BARCO.cs" />
+    <Compile Include="ESTADO_CASILLERO.cs" />
+    <Compile Include="FRAGATA.cs" />
     <Compile Include="JUGADOR.cs" />
+    <Compile Include="PORTA_AVION.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TABLERO.cs" />
     <Compile Include="USUARIO.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -8,11 +8,88 @@
     </TypeIdentifier>
   </Class>
   <Class Name="BE.JUGADOR">
-    <Position X="4" Y="3.25" Width="2.75" />
+    <Position X="4" Y="0.5" Width="2.75" />
     <TypeIdentifier>
       <HashCode>AQAAAAgAAAAAgAACAABAAAAAAAAABABAAAAAACAAAAA=</HashCode>
       <FileName>JUGADOR.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="BE.COORDENADA">
+    <Position X="7.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>COORDENADA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.CASILLERO">
+    <Position X="9.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAABIABAAAAAAAAAAAAAAAAAAAAAAAAAAQAgAAAAAg=</HashCode>
+      <FileName>CASILLERO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.TABLERO">
+    <Position X="13.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>IAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TABLERO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.BARCO">
+    <Position X="9.5" Y="3.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAEABAAAAACAAAAAAAAAAAABAAAAAAAAAAAAg=</HashCode>
+      <FileName>BARCO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.BATALLA_NAVAL">
+    <Position X="8.25" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BATALLA_NAVAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.PORTA_AVION">
+    <Position X="10.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PORTA_AVION.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.FRAGATA">
+    <Position X="12.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FRAGATA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.BUQUE">
+    <Position X="9.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BUQUE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.ACORAZADO">
+    <Position X="11.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ACORAZADO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BE.ESTADO_BARCO">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ESTADO_BARCO.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BE.ESTADO_CASILLERO">
+    <Position X="0.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ESTADO_CASILLERO.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

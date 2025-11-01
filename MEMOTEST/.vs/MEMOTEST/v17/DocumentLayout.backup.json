@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "D:\\Programacion\\LUG\\MEMOTEST\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|d:\\programacion\\lug\\memotest\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\ui_casillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:ui_casillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\delenviarcasillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:delenviarcasillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\casillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,24 +15,40 @@
       "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|d:\\programacion\\lug\\memotest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\ui_casillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:ui_casillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\ui_casillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:ui_casillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\delerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:delerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\delenviarcasillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:delenviarcasillero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|D:\\Programacion\\LUG\\MEMOTEST\\delerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C763C4-3440-409E-BC8E-EC47FB3C9F1F}|MEMOTEST.csproj|solutionrelative:delerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 9,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "ClassDiagram1.cd",
@@ -70,74 +70,70 @@
               "RelativeToolTip": "ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
               "WhenOpened": "2025-09-27T22:41:07.771Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Programacion\\LUG\\MEMOTEST\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAArwBUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T00:17:19.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "UI_CASILLERO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\UI_CASILLERO.cs",
               "RelativeDocumentMoniker": "UI_CASILLERO.cs",
               "ToolTip": "D:\\Programacion\\LUG\\MEMOTEST\\UI_CASILLERO.cs",
               "RelativeToolTip": "UI_CASILLERO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T00:12:55.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T00:12:55.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TABLERO.cs",
-              "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\TABLERO.cs",
-              "RelativeDocumentMoniker": "TABLERO.cs",
-              "ToolTip": "D:\\Programacion\\LUG\\MEMOTEST\\TABLERO.cs",
-              "RelativeToolTip": "TABLERO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T23:09:00.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "FICHA.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\FICHA.cs",
               "RelativeDocumentMoniker": "FICHA.cs",
               "ToolTip": "D:\\Programacion\\LUG\\MEMOTEST\\FICHA.cs",
               "RelativeToolTip": "FICHA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T23:03:23.322Z"
+              "WhenOpened": "2025-09-27T23:03:23.322Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "CASILLERO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\CASILLERO.cs",
               "RelativeDocumentMoniker": "CASILLERO.cs",
               "ToolTip": "D:\\Programacion\\LUG\\MEMOTEST\\CASILLERO.cs",
               "RelativeToolTip": "CASILLERO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T23:05:57.111Z"
+              "WhenOpened": "2025-09-27T23:05:57.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "JUEGO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\JUEGO.cs",
               "RelativeDocumentMoniker": "JUEGO.cs",
@@ -149,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "delEnviarCasillero.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\delEnviarCasillero.cs",
               "RelativeDocumentMoniker": "delEnviarCasillero.cs",
@@ -161,31 +157,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Programacion\\LUG\\MEMOTEST\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T22:40:33.764Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-09-27T22:40:33.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "TABLERO.cs",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\TABLERO.cs",
+              "RelativeDocumentMoniker": "TABLERO.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\MEMOTEST\\TABLERO.cs",
+              "RelativeToolTip": "TABLERO.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwEYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T23:09:00.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UI_CASILLERO.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\UI_CASILLERO.cs",
               "RelativeDocumentMoniker": "UI_CASILLERO.cs",
               "ToolTip": "D:\\Programacion\\LUG\\MEMOTEST\\UI_CASILLERO.cs [Dise\u00F1o]",
               "RelativeToolTip": "UI_CASILLERO.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T00:11:48.314Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-09-28T00:11:48.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "delError.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\delError.cs",
               "RelativeDocumentMoniker": "delError.cs",
@@ -197,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "ESTADO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\MEMOTEST\\ESTADO.cs",
               "RelativeDocumentMoniker": "ESTADO.cs",
@@ -205,7 +212,8 @@
               "RelativeToolTip": "ESTADO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T23:04:15.901Z"
+              "WhenOpened": "2025-09-27T23:04:15.901Z",
+              "EditorCaption": ""
             }
           ]
         }
