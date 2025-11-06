@@ -5,5 +5,5 @@ using System.Text;
 
 namespace BLL
 {
-    public delegate void delUbicarBarco();
+    public delegate void delEnviarBarco(BE.BARCO barco);
 }

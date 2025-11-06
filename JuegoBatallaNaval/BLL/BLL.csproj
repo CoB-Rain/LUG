@@ -42,9 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BARCO.cs" />
+    <Compile Include="delEnviarBarco.cs" />
     <Compile Include="delEnviarCasillero.cs" />
     <Compile Include="delInformar.cs" />
-    <Compile Include="delUbicarBarco.cs" />
     <Compile Include="DireccionEje.cs" />
     <Compile Include="JUEGO.cs" />
     <Compile Include="JUGADOR.cs" />

@@ -7,14 +7,14 @@ namespace BLL
 {
     public class JUEGO
     {
-        public delEnviarCasillero EnviarCasillero;
-        public delUbicarBarco UbicarBarco;
-        public delInformar Agua;
-        public delInformar Tocado;
-        public delInformar Hundir;
-        public delInformar Ganar;
-        public delInformar Perder;
-        public delInformar Empatar;
+        public event delEnviarCasillero EnviarCasillero;
+        public event delEnviarBarco EnviarBarco;
+        public event delInformar Agua;
+        public event delInformar Tocado;
+        public event delInformar Hundir;
+        public event delInformar Ganar;
+        public event delInformar Perder;
+        public event delInformar Empatar;
 
         BE.TABLERO tablero;
         List<BE.BARCO> barcos = new List<BE.BARCO>();
@@ -35,6 +35,16 @@ namespace BLL
             {
                 EnviarCasillero(casillero);
             }
+
+            foreach(BE.BARCO barco in barcos)
+            {
+                EnviarBarco(barco);
+            }
+        }
+
+        public void UbicarBarco()
+        {
+
         }
     }
 }
