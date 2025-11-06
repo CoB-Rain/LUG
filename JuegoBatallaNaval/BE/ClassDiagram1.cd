@@ -36,45 +36,10 @@
     </TypeIdentifier>
   </Class>
   <Class Name="BE.BARCO">
-    <Position X="9.5" Y="3.5" Width="3.5" />
+    <Position X="9.5" Y="3.75" Width="3.5" />
     <TypeIdentifier>
-      <HashCode>AAAABAAAEABAAAAACAAAAAAAAAAAABAAAAAAAAAAAAg=</HashCode>
+      <HashCode>AAAABAAAEABAAAAACAAAAAAAAAABABAAAAAAAAAAAAw=</HashCode>
       <FileName>BARCO.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="BE.BATALLA_NAVAL">
-    <Position X="8.25" Y="7" Width="1.75" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>BATALLA_NAVAL.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="BE.PORTA_AVION">
-    <Position X="10.5" Y="7" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>PORTA_AVION.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="BE.FRAGATA">
-    <Position X="12.5" Y="7" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>FRAGATA.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="BE.BUQUE">
-    <Position X="9.5" Y="8.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>BUQUE.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="BE.ACORAZADO">
-    <Position X="11.5" Y="8.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>ACORAZADO.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Enum Name="BE.ESTADO_BARCO">
@@ -89,6 +54,13 @@
     <TypeIdentifier>
       <HashCode>AAAAAAAEAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ESTADO_CASILLERO.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BE.TipoBarco">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAACAAAAAAAABAAABAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>TipoBarco.cs</FileName>
     </TypeIdentifier>
   </Enum>
   <Font Name="Segoe UI" Size="9" />

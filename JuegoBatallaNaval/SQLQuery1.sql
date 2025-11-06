@@ -1,6 +1,6 @@
 USE [master]
 GO
-/****** Object:  Database [BatallaNaval]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  Database [BatallaNaval]    Script Date: 5/11/2025 22:25:02 ******/
 CREATE DATABASE [BatallaNaval]
  CONTAINMENT = NONE
  ON  PRIMARY 
@@ -84,7 +84,7 @@ ALTER DATABASE [BatallaNaval] SET QUERY_STORE (OPERATION_MODE = READ_WRITE, CLEA
 GO
 USE [BatallaNaval]
 GO
-/****** Object:  Table [dbo].[USUARIO]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  Table [dbo].[USUARIO]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -99,7 +99,7 @@ CREATE TABLE [dbo].[USUARIO](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[JUGADOR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  Table [dbo].[JUGADOR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -117,7 +117,7 @@ CREATE TABLE [dbo].[JUGADOR](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-/****** Object:  View [dbo].[VISTA_USUARIO_JUGADOR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  View [dbo].[VISTA_USUARIO_JUGADOR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -127,27 +127,16 @@ AS
 SELECT        dbo.USUARIO.*, dbo.JUGADOR.*
 FROM            dbo.JUGADOR INNER JOIN
                          dbo.USUARIO ON dbo.JUGADOR.ID_U = dbo.USUARIO.ID_USUARIO
-GO
-INSERT [dbo].[JUGADOR] ([ID_JUGADOR], [PARTIDAS_GANADAS], [PARTIDAS_EMPATADAS], [PARTIDAS_PERDIDAS], [ID_U]) VALUES (2, 0, 0, 0, 2)
-GO
-INSERT [dbo].[JUGADOR] ([ID_JUGADOR], [PARTIDAS_GANADAS], [PARTIDAS_EMPATADAS], [PARTIDAS_PERDIDAS], [ID_U]) VALUES (5, 0, 0, 0, 2)
-GO
-INSERT [dbo].[JUGADOR] ([ID_JUGADOR], [PARTIDAS_GANADAS], [PARTIDAS_EMPATADAS], [PARTIDAS_PERDIDAS], [ID_U]) VALUES (6, 17, 21, 12, 1)
-GO
-INSERT [dbo].[JUGADOR] ([ID_JUGADOR], [PARTIDAS_GANADAS], [PARTIDAS_EMPATADAS], [PARTIDAS_PERDIDAS], [ID_U]) VALUES (7, 22, 11, 17, 1)
-GO
-INSERT [dbo].[JUGADOR] ([ID_JUGADOR], [PARTIDAS_GANADAS], [PARTIDAS_EMPATADAS], [PARTIDAS_PERDIDAS], [ID_U]) VALUES (8, 18, 14, 18, 1)
+
 GO
 INSERT [dbo].[USUARIO] ([ID_USUARIO], [NOMBRE], [CONTRASEÑA]) VALUES (1, N'Brian', N'123')
-GO
-INSERT [dbo].[USUARIO] ([ID_USUARIO], [NOMBRE], [CONTRASEÑA]) VALUES (2, N'Ester', N'456')
 GO
 ALTER TABLE [dbo].[JUGADOR]  WITH CHECK ADD  CONSTRAINT [FK_JUGADOR_USUARIO] FOREIGN KEY([ID_U])
 REFERENCES [dbo].[USUARIO] ([ID_USUARIO])
 GO
 ALTER TABLE [dbo].[JUGADOR] CHECK CONSTRAINT [FK_JUGADOR_USUARIO]
 GO
-/****** Object:  StoredProcedure [dbo].[JUGADOR_BORRAR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  StoredProcedure [dbo].[JUGADOR_BORRAR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -158,8 +147,9 @@ as
 BEGIN
 	DELETE FROM JUGADOR WHERE ID_JUGADOR = @id
 END
+
 GO
-/****** Object:  StoredProcedure [dbo].[JUGADOR_EDITAR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  StoredProcedure [dbo].[JUGADOR_EDITAR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -174,8 +164,9 @@ BEGIN
 	PARTIDAS_PERDIDAS = @PP
 	where ID_JUGADOR = @id
 END
+
 GO
-/****** Object:  StoredProcedure [dbo].[JUGADOR_INSERTAR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  StoredProcedure [dbo].[JUGADOR_INSERTAR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -192,8 +183,9 @@ BEGIN
 	INSERT INTO JUGADOR (ID_JUGADOR, PARTIDAS_GANADAS, PARTIDAS_EMPATADAS, PARTIDAS_PERDIDAS, ID_U)
 	VALUES (@id_j, @PG, @PE, @PP, @id_u)
 END
+
 GO
-/****** Object:  StoredProcedure [dbo].[JUGADOR_LISTAR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  StoredProcedure [dbo].[JUGADOR_LISTAR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -204,8 +196,9 @@ BEGIN
 	SELECT ID_JUGADOR, PARTIDAS_GANADAS, PARTIDAS_EMPATADAS, PARTIDAS_PERDIDAS FROM JUGADOR
 END
 
+
 GO
-/****** Object:  StoredProcedure [dbo].[USUARIO_BORRAR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  StoredProcedure [dbo].[USUARIO_BORRAR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -214,12 +207,13 @@ CREATE PROC [dbo].[USUARIO_BORRAR]
 @id int
 as
 BEGIN
+	delete from JUGADOR where ID_U = @id
 	delete from USUARIO where ID_USUARIO = @id
 END
 
 
 GO
-/****** Object:  StoredProcedure [dbo].[USUARIO_BUSCAR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  StoredProcedure [dbo].[USUARIO_BUSCAR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -233,8 +227,9 @@ BEGIN
 END
 
 
+
 GO
-/****** Object:  StoredProcedure [dbo].[USUARIO_EDITAR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  StoredProcedure [dbo].[USUARIO_EDITAR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -250,8 +245,9 @@ BEGIN
 END
 
 
+
 GO
-/****** Object:  StoredProcedure [dbo].[USUARIO_INSERTAR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  StoredProcedure [dbo].[USUARIO_INSERTAR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -260,15 +256,21 @@ CREATE PROC [dbo].[USUARIO_INSERTAR]
 @nom varchar(50), @pass varchar(50)
 as
 BEGIN
-	declare @id int
-	set @id = (select isnull(max(ID_USUARIO), 0) + 1 from USUARIO)
+	declare @existe int
+	set @existe = (select count(*) from USUARIO where NOMBRE = @nom)
 
-	 INSERT INTO USUARIO (ID_USUARIO, NOMBRE, CONTRASEÑA) VALUES (@id, @nom, @pass)
+	if @existe = 0
+	BEGIN
+		declare @id int
+		set @id = (select isnull(max(ID_USUARIO), 0) + 1 from USUARIO)
+		INSERT INTO USUARIO (ID_USUARIO, NOMBRE, CONTRASEÑA) VALUES (@id, @nom, @pass)
+	END
 END
 
 
+
 GO
-/****** Object:  StoredProcedure [dbo].[USUARIO_INSERTAR_JUGADOR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  StoredProcedure [dbo].[USUARIO_INSERTAR_JUGADOR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -281,8 +283,9 @@ BEGIN
 	set @id_jugador = (select isnull(max(ID_JUGADOR), 0) + 1 from JUGADOR)
 	exec JUGADOR_INSERTAR @id_jugador, @id_usu
 END
+
 GO
-/****** Object:  StoredProcedure [dbo].[USUARIO_JUGADOR_LISTAR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  StoredProcedure [dbo].[USUARIO_JUGADOR_LISTAR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -294,8 +297,9 @@ BEGIN
 	select * from VISTA_USUARIO_JUGADOR
 	where ID_USUARIO = @id_usu
 END
+
 GO
-/****** Object:  StoredProcedure [dbo].[USUARIO_LISTAR]    Script Date: 30/10/2025 10:39:19 ******/
+/****** Object:  StoredProcedure [dbo].[USUARIO_LISTAR]    Script Date: 5/11/2025 22:25:02 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -305,6 +309,7 @@ as
 BEGIN
 	SELECT ID_USUARIO, NOMBRE, CONTRASEÑA FROM USUARIO
 END
+
 
 
 GO

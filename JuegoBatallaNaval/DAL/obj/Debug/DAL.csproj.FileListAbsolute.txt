@@ -16,3 +16,12 @@ G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\bin\Debug\DAL.pdb
 G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\bin\Debug\BE.dll
 G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\bin\Debug\BE.pdb
 G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\DAL\bin\Debug\DAL.dll
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\DAL\bin\Debug\DAL.pdb
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\DAL\bin\Debug\BE.dll
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\DAL\bin\Debug\BE.pdb
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\DAL\obj\Debug\DAL.dll
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\DAL\obj\Debug\DAL.pdb

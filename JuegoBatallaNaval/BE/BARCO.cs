@@ -5,15 +5,15 @@ using System.Text;
 
 namespace BE
 {
-    public abstract class BARCO
+    public class BARCO
     {
-        protected BARCO()
+        public BARCO()
         {
             _casillerosOcupados = new List<CASILLERO>();
             _estado = ESTADO_BARCO.Flotando;
         }
 
-        protected List<CASILLERO> _casillerosOcupados;
+        public List<CASILLERO> _casillerosOcupados;
 
 		public List<CASILLERO> CasillerosOcupados
 		{
@@ -21,7 +21,7 @@ namespace BE
 			set { _casillerosOcupados = value; }
 		}
 
-		protected ESTADO_BARCO _estado;
+		public ESTADO_BARCO _estado;
 
 		public ESTADO_BARCO Estado
 		{
@@ -29,7 +29,15 @@ namespace BE
 			set { _estado = value; }
 		}
 
-		protected string _imagen;
+		private TipoBarco _tipo;
+
+		public TipoBarco Tipo
+		{
+			get { return _tipo; }
+			set { _tipo = value; }
+		}
+
+		public string _imagen;
 
 		public string Imagen
 		{

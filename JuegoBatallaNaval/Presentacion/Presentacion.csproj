@@ -59,11 +59,23 @@
     <Compile Include="FrmAltaUsuario.Designer.cs">
       <DependentUpon>FrmAltaUsuario.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmJuego.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJuego.Designer.cs">
+      <DependentUpon>FrmJuego.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmLogin.Designer.cs">
       <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="miCasillero.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="miCasillero.Designer.cs">
+      <DependentUpon>miCasillero.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -73,8 +85,14 @@
     <EmbeddedResource Include="FrmAltaUsuario.resx">
       <DependentUpon>FrmAltaUsuario.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmJuego.resx">
+      <DependentUpon>FrmJuego.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="miCasillero.resx">
+      <DependentUpon>miCasillero.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -101,6 +119,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="IMG\ACORAZADO.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="IMG\AGUA.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="IMG\BATALLA NAVAL.jpg">

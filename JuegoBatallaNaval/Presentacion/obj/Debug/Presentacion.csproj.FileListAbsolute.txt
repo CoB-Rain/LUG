@@ -52,3 +52,36 @@ G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Pres
 G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
 G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.exe
 G:\BRIAN LUG\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\ACORAZADO.jpg
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\BATALLA NAVAL.jpg
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\BUQUE.jpg
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\FRAGATA.jpg
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\OJO_ABIERTO.jpg
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\OJO_CERRADO.jpg
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\PORTA AVIONES.jpg
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\BE.dll
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\BLL.dll
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\DAL.dll
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\BE.pdb
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\BLL.pdb
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\DAL.pdb
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.exe.config
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.FrmAltaUsuario.resources
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.FrmJuego.resources
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\AGUA.jpg
+C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.miCasillero.resources
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.FrmJuego.resources
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.miCasillero.resources
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\AGUA.jpg

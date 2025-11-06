@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BE;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,49 +8,31 @@ namespace BLL
 {
     public class BARCO
     {
-        public BE.BARCO CrearBarco(TipoBarco tipoBarco)
+        public BE.BARCO CrearBarco(TipoBarco tipo)
         {
-            BE.BARCO barco;
-
-            switch (tipoBarco)
+            BE.BARCO barco = new BE.BARCO();
+            barco.Tipo = tipo;
+            switch (tipo)
             {
-                case TipoBarco.Acorazado:
-                    barco = new BE.ACORAZADO();
+                case TipoBarco.BatallaNaval:
+                    barco.Imagen = @"IMG\BATALLA NAVAL";
                     break;
-                case TipoBarco.Buque:
-                    barco = new BE.BUQUE();
+                case TipoBarco.PortaAviones:
+                    barco.Imagen = @"IMG\PORTA AVIONES";
                     break;
                 case TipoBarco.Fragata:
-                    barco = new BE.FRAGATA();
+                    barco.Imagen = @"IMG\FRAGATA";
                     break;
-                case TipoBarco.PortaAvion:
-                    barco = new BE.PORTA_AVION();
+                case TipoBarco.Buque:
+                    barco.Imagen = @"IMG\BUQUE";
                     break;
-                case TipoBarco.BatallaNaval:
-                    barco = new BE.BATALLA_NAVAL();
+                case TipoBarco.Acorazado:
+                    barco.Imagen = @"IMG\ACORAZADO";
                     break;
                 default:
-                    barco = null;
                     break;
             }
             return barco;
-        }
-
-        public bool UbicarBarco(BE.TABLERO tablero, BE.BARCO barco, BE.COORDENADA posicionInicial, DireccionEje eje)
-        {
-            bool ok = barco != null && tablero.Casilleros.Count > 0;
-            if (ok)
-            {
-                if(eje == DireccionEje.Horizontal)
-                {
-
-                }
-                else
-                {
-
-                }
-            }
-            return ok;
         }
     }
 }

@@ -33,6 +33,10 @@ namespace Presentacion
                 usuario.Nombre = txtNombre.Text;
                 usuario.Contraseña = txtContraseña.Text;
                 gestor.Grabar(usuario);
+                if(gestor.resultado == -1)
+                {
+                    MessageBox.Show("Este usuario ya existe!");
+                }
                 usuario = null;
                 this.Close();
             }

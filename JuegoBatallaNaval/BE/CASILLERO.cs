@@ -22,9 +22,9 @@ namespace BE
 			set { _posicion = value; }
 		}
 
-		private static COORDENADA _tamaño;
+		private  COORDENADA _tamaño = new COORDENADA();
 
-		public static COORDENADA Tamaño
+		public COORDENADA Tamaño
 		{
 			get { return _tamaño; }
 			set { _tamaño = value; }

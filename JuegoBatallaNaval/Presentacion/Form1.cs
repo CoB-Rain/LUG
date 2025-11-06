@@ -90,5 +90,19 @@ namespace Presentacion
         {
             this.Close();
         }
+
+        private void btnIniciarJuego_Click(object sender, EventArgs e)
+        {
+            /*
+            FrmJuego frm = new FrmJuego();
+            frm.ShowDialog();
+            */
+            this.Hide();
+            using (FrmJuego frm = new FrmJuego())
+            {
+                frm.ShowDialog();
+            }
+            this.Show();
+        }
     }
 }

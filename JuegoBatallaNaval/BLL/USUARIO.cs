@@ -8,12 +8,13 @@ namespace BLL
     public class USUARIO
     {
         DAL.MP_USUARIO mp = new DAL.MP_USUARIO();
+        public int resultado { get; set; }
 
         public void Grabar(BE.USUARIO usuario)
         {
             if(usuario.ID == 0)
             {
-                mp.Insertar(usuario);
+                resultado = mp.Insertar(usuario);
             }
             else
             {
