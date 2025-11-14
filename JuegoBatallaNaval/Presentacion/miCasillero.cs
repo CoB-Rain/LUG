@@ -55,6 +55,18 @@ namespace Presentacion
             }
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e) => VerificarEstado();
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            if(_casillero.Estado != BE.ESTADO_CASILLERO.Ocupado)
+            {
+                _casillero.Estado = BE.ESTADO_CASILLERO.Ocupado;
+                VerificarEstado();
+            }
+            else
+            {
+                _casillero.Estado = BE.ESTADO_CASILLERO.Agua;
+                SetearImagen();
+            }
+        }
     }
 }

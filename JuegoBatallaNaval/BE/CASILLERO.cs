@@ -11,7 +11,7 @@ namespace BE
         {
             _posicion = new COORDENADA();
 			_tamaño = new COORDENADA();
-            _estado = ESTADO_CASILLERO.Tocado;
+            _estado = ESTADO_CASILLERO.Agua;
         }
 
         private COORDENADA _posicion;
