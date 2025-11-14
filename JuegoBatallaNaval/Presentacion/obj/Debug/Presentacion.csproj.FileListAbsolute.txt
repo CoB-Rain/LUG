@@ -85,3 +85,4 @@ C:\Users\Navegador\Downloads\LUG-master\LUG-master\JuegoBatallaNaval\Presentacio
 D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.FrmJuego.resources
 D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\obj\Debug\Presentacion.miCasillero.resources
 D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\AGUA.jpg
+D:\Programacion\LUG\JuegoBatallaNaval\Presentacion\bin\Debug\IMG\TOCADO.jpg
