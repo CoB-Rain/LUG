@@ -46,6 +46,7 @@
     <Compile Include="delEnviarCasillero.cs" />
     <Compile Include="delInformar.cs" />
     <Compile Include="DireccionEje.cs" />
+    <Compile Include="EstadoPartida.cs" />
     <Compile Include="JUEGO.cs" />
     <Compile Include="JUGADOR.cs" />
     <Compile Include="PARTIDA.cs" />

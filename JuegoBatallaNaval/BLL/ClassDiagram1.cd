@@ -17,7 +17,7 @@
   <Class Name="BLL.JUEGO">
     <Position X="6.25" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQAAAAEAAAAAAAQAAAAAACAAiAAAgAIAAAAAECAAIQ=</HashCode>
+      <HashCode>AAQAAAAEAAAAAAAQAAAAAACAAiAAAgAIAAAAEECAAIA=</HashCode>
       <FileName>JUEGO.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -56,6 +56,13 @@
       <FileName>DireccionEje.cs</FileName>
     </TypeIdentifier>
   </Enum>
+  <Enum Name="BLL.EstadoPartida">
+    <Position X="16.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAEAAAAA=</HashCode>
+      <FileName>EstadoPartida.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
   <Delegate Name="BLL.delEnviarCasillero">
     <Position X="3.25" Y="3.5" Width="1.5" />
     <TypeIdentifier>
@@ -73,7 +80,7 @@
   <Delegate Name="BLL.delEnviarBarco">
     <Position X="3.25" Y="6.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>delEnviarBarco.cs</FileName>
     </TypeIdentifier>
   </Delegate>

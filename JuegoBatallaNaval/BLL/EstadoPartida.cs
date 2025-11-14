@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace BE
+namespace BLL
 {
-    public enum ESTADO_CASILLERO
+    public enum EstadoPartida
     {
-        Agua,
-        Ocupado,
-        Tocado
+        Iniciada,
+        NoIniciada,
+        Terminada
     }
 }

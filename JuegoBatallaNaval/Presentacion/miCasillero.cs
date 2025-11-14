@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BLL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -35,12 +36,25 @@ namespace Presentacion
 
         private void SetearImagen()
         {
-            pictureBox1.Image = Image.FromFile(@"IMG\AGUA.jpg");
+            if(_casillero.Estado == BE.ESTADO_CASILLERO.Agua)
+            {
+                pictureBox1.Image = Image.FromFile(@"IMG\AGUA.jpg");
+            }
+            else if(_casillero.Estado == BE.ESTADO_CASILLERO.Tocado)
+            {
+                pictureBox1.Image = Image.FromFile(@"IMG\TOCADO.jpg");
+            }
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void VerificarEstado()
         {
-            
+            if (_casillero.Estado == BE.ESTADO_CASILLERO.Ocupado)
+            {
+                _casillero.Estado = BE.ESTADO_CASILLERO.Tocado;
+                SetearImagen();
+            }
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e) => VerificarEstado();
     }
 }
