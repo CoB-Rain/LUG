@@ -12,6 +12,7 @@ namespace BE
             _posicion = new COORDENADA();
 			_tamaño = new COORDENADA();
             _estado = ESTADO_CASILLERO.Agua;
+			_imagen = @"IMG\AGUA.jpg";
         }
 
         private COORDENADA _posicion;
@@ -36,6 +37,14 @@ namespace BE
 		{
 			get { return _estado; }
 			set { _estado = value; }
+		}
+
+		private string _imagen;
+
+		public string Imagen
+		{
+			get { return _imagen; }
+			set { _imagen = value; }
 		}
 	}
 }

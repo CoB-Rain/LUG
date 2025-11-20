@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "D:\\Programacion\\LUG\\COMPOSITE\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8970B41-792B-484F-A44B-50C415BD99B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\Programacion\\LUG\\COMPOSITE\\WindowsFormsApp1\\windowsformsapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{E8970B41-792B-484F-A44B-50C415BD99B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\programacion\\lug\\composite\\windowsformsapp1\\windowsformsapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{E8970B41-792B-484F-A44B-50C415BD99B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8970B41-792B-484F-A44B-50C415BD99B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\Programacion\\LUG\\COMPOSITE\\WindowsFormsApp1\\windowsformsapp1\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8970B41-792B-484F-A44B-50C415BD99B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8970B41-792B-484F-A44B-50C415BD99B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\Programacion\\LUG\\COMPOSITE\\WindowsFormsApp1\\windowsformsapp1\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8970B41-792B-484F-A44B-50C415BD99B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8970B41-792B-484F-A44B-50C415BD99B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\programacion\\lug\\composite\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8970B41-792B-484F-A44B-50C415BD99B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\Programacion\\LUG\\COMPOSITE\\WindowsFormsApp1\\windowsformsapp1\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8970B41-792B-484F-A44B-50C415BD99B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8970B41-792B-484F-A44B-50C415BD99B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\Programacion\\LUG\\COMPOSITE\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8970B41-792B-484F-A44B-50C415BD99B2}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,16 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -89,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GRUPO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\COMPOSITE\\WindowsFormsApp1\\WindowsFormsApp1\\GRUPO.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\GRUPO.cs",
@@ -102,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PERMISO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\COMPOSITE\\WindowsFormsApp1\\WindowsFormsApp1\\PERMISO.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\PERMISO.cs",
               "ToolTip": "D:\\Programacion\\LUG\\COMPOSITE\\WindowsFormsApp1\\WindowsFormsApp1\\PERMISO.cs",
               "RelativeToolTip": "WindowsFormsApp1\\PERMISO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T22:55:08.369Z",
               "EditorCaption": ""
@@ -135,6 +127,20 @@
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T22:54:42.732Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 378,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

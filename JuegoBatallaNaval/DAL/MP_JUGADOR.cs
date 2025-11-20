@@ -56,7 +56,7 @@ namespace DAL
             foreach (DataRow row in tabla.Rows)
             {
                 JUGADOR j = new JUGADOR();
-                j.ID = int.Parse(row["ID_USUARIO"].ToString());
+                j.ID = int.Parse(row["ID_JUGADOR"].ToString());
                 j.TotalPartidasGanadas = int.Parse(row["PARTIDAS_GANADAS"].ToString());
                 j.TotalPartidasEmpatadas = int.Parse(row["PARTIDAS_EMPATADAS"].ToString());
                 j.TotalPartidasPerdidas = int.Parse(row["PARTIDAS_PERDIDAS"].ToString());

@@ -38,35 +38,27 @@ namespace Presentacion
         {
             if(_casillero.Estado == BE.ESTADO_CASILLERO.Agua)
             {
-                pictureBox1.Image = Image.FromFile(@"IMG\AGUA.jpg");
+                _casillero.Imagen = @"IMG\AGUA.jpg";
             }
             else if(_casillero.Estado == BE.ESTADO_CASILLERO.Tocado)
             {
-                pictureBox1.Image = Image.FromFile(@"IMG\TOCADO.jpg");
+                _casillero.Imagen = @"IMG\TOCADO.jpg";
             }
-        }
-
-        private void VerificarEstado()
-        {
-            if (_casillero.Estado == BE.ESTADO_CASILLERO.Ocupado)
-            {
-                _casillero.Estado = BE.ESTADO_CASILLERO.Tocado;
-                SetearImagen();
-            }
+            pictureBox1.Image = Image.FromFile(_casillero.Imagen);
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            if(_casillero.Estado != BE.ESTADO_CASILLERO.Ocupado)
+            pictureBox1.Image = null;
+            if(_casillero.Estado == BE.ESTADO_CASILLERO.Agua)
             {
-                _casillero.Estado = BE.ESTADO_CASILLERO.Ocupado;
-                VerificarEstado();
+                _casillero.Estado = BE.ESTADO_CASILLERO.Tocado;
             }
             else
             {
                 _casillero.Estado = BE.ESTADO_CASILLERO.Agua;
-                SetearImagen();
             }
+            SetearImagen();
         }
     }
 }

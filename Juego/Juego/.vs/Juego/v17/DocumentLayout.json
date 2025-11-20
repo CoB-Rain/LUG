@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "D:\\Programacion\\LUG\\Juego\\Juego\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\bll\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\juego\\mipicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|solutionrelative:juego\\mipicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|d:\\programacion\\lug\\juego\\juego\\juego\\mipicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|solutionrelative:juego\\mipicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|solutionrelative:juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|solutionrelative:juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|d:\\programacion\\lug\\juego\\juego\\bll\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|solutionrelative:bll\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|d:\\programacion\\lug\\juego\\juego\\be\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\be\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|solutionrelative:be\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
@@ -21,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\bll\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|solutionrelative:bll\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|solutionrelative:juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|solutionrelative:juego\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC3A3373-501B-4281-B2E2-90C83860A69B}|BE\\BE.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\be\\coordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\bll\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02035F3D-55A3-4717-ABDE-DFE947C08777}|BLL\\BLL.csproj|solutionrelative:bll\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|D:\\Programacion\\LUG\\Juego\\Juego\\juego\\mipicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30624984-7E52-4C67-B11B-FB8EA4875474}|Juego\\Juego.csproj|solutionrelative:juego\\mipicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,11 +70,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "MiPictureBox.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\MiPictureBox.cs",
+              "RelativeDocumentMoniker": "Juego\\MiPictureBox.cs",
+              "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\MiPictureBox.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Juego\\MiPictureBox.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:15:24.267Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TABLERO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\TABLERO.cs",
               "RelativeDocumentMoniker": "BLL\\TABLERO.cs",
@@ -82,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Helper.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\Helper.cs",
               "RelativeDocumentMoniker": "BLL\\Helper.cs",
@@ -94,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "delInformar.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\delInformar.cs",
               "RelativeDocumentMoniker": "BLL\\delInformar.cs",
@@ -106,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "delEnviarFicha.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\delEnviarFicha.cs",
               "RelativeDocumentMoniker": "BLL\\delEnviarFicha.cs",
@@ -118,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Juego.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\Juego.cs",
               "RelativeDocumentMoniker": "BLL\\Juego.cs",
@@ -131,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BLL\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "BLL\\ClassDiagram1.cd",
@@ -142,19 +158,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "BE\\ClassDiagram1.cd",
               "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\ClassDiagram1.cd",
               "RelativeToolTip": "BE\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-09-18T22:26:51.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T22:26:51.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "FICHA.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\FICHA.cs",
               "RelativeDocumentMoniker": "BE\\FICHA.cs",
@@ -166,30 +181,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\Form1.cs",
               "RelativeDocumentMoniker": "Juego\\Form1.cs",
               "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\Form1.cs",
               "RelativeToolTip": "Juego\\Form1.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwB4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAArwD8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:30:09.481Z"
+              "WhenOpened": "2024-09-18T23:30:09.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\Form1.cs",
               "RelativeDocumentMoniker": "Juego\\Form1.cs",
               "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Juego\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:23:40.28Z"
+              "WhenOpened": "2024-09-18T22:23:40.28Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Estado.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\Estado.cs",
               "RelativeDocumentMoniker": "BE\\Estado.cs",
@@ -201,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "TABLERO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\TABLERO.cs",
               "RelativeDocumentMoniker": "BE\\TABLERO.cs",
@@ -213,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "COORDENADA.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\BE\\COORDENADA.cs",
               "RelativeDocumentMoniker": "BE\\COORDENADA.cs",
@@ -225,15 +242,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "MiPictureBox.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\MiPictureBox.cs",
               "RelativeDocumentMoniker": "Juego\\MiPictureBox.cs",
               "ToolTip": "D:\\Programacion\\LUG\\Juego\\Juego\\Juego\\MiPictureBox.cs",
               "RelativeToolTip": "Juego\\MiPictureBox.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:27:09.558Z"
+              "WhenOpened": "2024-09-18T23:27:09.558Z",
+              "EditorCaption": ""
             }
           ]
         },
