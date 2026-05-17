@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Programacion\\LUG\\WindowsFormsApp3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|d:\\programacion\\lug\\windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -31,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|d:\\programacion\\lug\\windowsformsapp3\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|D:\\Programacion\\LUG\\WindowsFormsApp3\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{398299DD-FB76-42FE-8968-B85018A541F4}|WindowsFormsApp3.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 9,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
@@ -66,16 +66,7 @@
               "RelativeToolTip": "ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
               "WhenOpened": "2025-10-21T00:22:52.505Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -87,8 +78,7 @@
               "RelativeToolTip": "FrmPrincipal.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAADgvx4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T01:45:29.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T01:45:29.157Z"
             },
             {
               "$type": "Document",
@@ -123,8 +113,7 @@
               "ToolTip": "D:\\Programacion\\LUG\\WindowsFormsApp3\\FrmPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "FrmPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T01:41:12.601Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-21T01:41:12.601Z"
             },
             {
               "$type": "Document",
@@ -136,8 +125,7 @@
               "RelativeToolTip": "TITULO.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAhwCkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T00:44:05.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T00:44:05.314Z"
             },
             {
               "$type": "Document",
@@ -149,8 +137,7 @@
               "RelativeToolTip": "PERSONA.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowD4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T01:54:45.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T01:54:45.145Z"
             },
             {
               "$type": "Document",
@@ -161,8 +148,7 @@
               "ToolTip": "D:\\Programacion\\LUG\\WindowsFormsApp3\\FrmPersona.cs [Dise\u00F1o]",
               "RelativeToolTip": "FrmPersona.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T01:42:23.482Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-21T01:42:23.482Z"
             },
             {
               "$type": "Document",
@@ -174,8 +160,7 @@
               "RelativeToolTip": "FrmPersona.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIAwwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T03:33:54.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T03:33:54.376Z"
             },
             {
               "$type": "Document",
@@ -201,6 +186,20 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T00:48:39.297Z",
               "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 378,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
