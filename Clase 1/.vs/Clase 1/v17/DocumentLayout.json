@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Programacion\\LUG\\Clase 1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2CB82ED6-A5B3-4C07-89AC-DD7BCD11BA5B}|Clase 1\\Clase 1.csproj|d:\\programacion\\lug\\clase 1\\clase 1\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB82ED6-A5B3-4C07-89AC-DD7BCD11BA5B}|Clase 1\\Clase 1.csproj|solutionrelative:clase 1\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CB82ED6-A5B3-4C07-89AC-DD7BCD11BA5B}|Clase 1\\Clase 1.csproj|D:\\Programacion\\LUG\\Clase 1\\clase 1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{2CB82ED6-A5B3-4C07-89AC-DD7BCD11BA5B}|Clase 1\\Clase 1.csproj|solutionrelative:clase 1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CB82ED6-A5B3-4C07-89AC-DD7BCD11BA5B}|Clase 1\\Clase 1.csproj|d:\\programacion\\lug\\clase 1\\clase 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CB82ED6-A5B3-4C07-89AC-DD7BCD11BA5B}|Clase 1\\Clase 1.csproj|D:\\Programacion\\LUG\\Clase 1\\clase 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CB82ED6-A5B3-4C07-89AC-DD7BCD11BA5B}|Clase 1\\Clase 1.csproj|solutionrelative:clase 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2CB82ED6-A5B3-4C07-89AC-DD7BCD11BA5B}|Clase 1\\Clase 1.csproj|D:\\Programacion\\LUG\\Clase 1\\clase 1\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CB82ED6-A5B3-4C07-89AC-DD7BCD11BA5B}|Clase 1\\Clase 1.csproj|solutionrelative:clase 1\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CB82ED6-A5B3-4C07-89AC-DD7BCD11BA5B}|Clase 1\\Clase 1.csproj|D:\\Programacion\\LUG\\Clase 1\\clase 1\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CB82ED6-A5B3-4C07-89AC-DD7BCD11BA5B}|Clase 1\\Clase 1.csproj|solutionrelative:clase 1\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PERSONA.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Clase 1\\Clase 1\\PERSONA.cs",
               "RelativeDocumentMoniker": "Clase 1\\PERSONA.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "Clase 1\\PERSONA.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAlwC8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:53:45.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T00:53:45.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Clase 1\\Clase 1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Clase 1\\Form1.Designer.cs",
@@ -63,12 +62,11 @@
               "RelativeToolTip": "Clase 1\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:52:39.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T00:52:39.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TELEFONO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Clase 1\\Clase 1\\TELEFONO.cs",
               "RelativeDocumentMoniker": "Clase 1\\TELEFONO.cs",
@@ -76,12 +74,11 @@
               "RelativeToolTip": "Clase 1\\TELEFONO.cs",
               "ViewState": "AgIAABkAAAAAAAAAAADwvyoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:31:23.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T00:31:23.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Clase 1\\Clase 1\\Form1.cs",
               "RelativeDocumentMoniker": "Clase 1\\Form1.cs",
@@ -89,37 +86,35 @@
               "RelativeToolTip": "Clase 1\\Form1.cs",
               "ViewState": "AgIAADUAAAAAAAAAAADgv0AAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:29:57.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T00:29:57.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ACCESO.cs",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Clase 1\\Clase 1\\ACCESO.cs",
               "RelativeDocumentMoniker": "Clase 1\\ACCESO.cs",
               "ToolTip": "D:\\Programacion\\LUG\\Clase 1\\Clase 1\\ACCESO.cs",
               "RelativeToolTip": "Clase 1\\ACCESO.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAADwvzsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T00:16:20.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Clase 1\\Clase 1\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "Clase 1\\ClassDiagram1.cd",
-              "ToolTip": "D:\\Programacion\\LUG\\Clase 1\\Clase 1\\ClassDiagram1.cd*",
-              "RelativeToolTip": "Clase 1\\ClassDiagram1.cd*",
+              "ToolTip": "D:\\Programacion\\LUG\\Clase 1\\Clase 1\\ClassDiagram1.cd",
+              "RelativeToolTip": "Clase 1\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-08-14T00:15:19.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T00:15:19.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Programacion\\LUG\\Clase 1\\Clase 1\\Form1.cs",
               "RelativeDocumentMoniker": "Clase 1\\Form1.cs",
@@ -127,6 +122,20 @@
               "RelativeToolTip": "..\\..\\..\\DAS\\Clase 1\\Clase 1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T00:15:02.245Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 378,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
